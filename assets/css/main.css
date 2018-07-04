@@ -766,7 +766,7 @@ main {
 .box-item {
   -ms-flex: 1 0 300px;
   -webkit-box-flex: 1;
-  flex: 1 0 300px;
+  flex: 0 0 300px;
   margin: 0 0 1.875rem;
   display: inline-block;
   min-height: 17.813rem;
