@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img width="256" height="256" itemprop="image" class="img-rounded" src="/assets/img/logo-sq.jpg" alt="Your Name">
+<img width="256" height="256" itemprop="image" class="img-rounded" src="/assets/img/logo-sq.jpg" style="padding: 0px;" alt="Your Name">
 
 ## About
 
