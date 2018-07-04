@@ -1,24 +1,20 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: ROBOTMAK3RS
+email: ambassador@robotmak3rs.com
+description: Robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science Technology Engineering Arts and Mathematics via the joys of "playing" with LEGO.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-121857427-1"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: ROBOTMAK3RS
+user_description: Recognized LEGO Online Community of Robot Experts.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: robotmak3rs
+facebook_username: /groups/1047713702069822/about/
 
 # Build settings
 markdown: kramdown

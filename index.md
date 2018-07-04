@@ -1,8 +1,10 @@
 ---
 layout: main
 ---
-
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+
+<img style="width:100%" src="/assets/img/logo-rc.png">
+
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
