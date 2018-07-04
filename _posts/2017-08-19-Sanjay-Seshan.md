@@ -9,7 +9,7 @@ tags:
 - life
 - tips
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: **From: Pittsburgh, Pennsylvania, USA** <br> **Profession: Co-Founder of EV3Lessons**
+introduction: From Pittsburgh, Pennsylvania, USA <br> Profession - Co-Founder of EV3Lessons
 ---
 
 
