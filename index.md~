@@ -9,9 +9,9 @@ layout: main
     {% for post in site.posts %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
             <span class="category">
-<!--                <a href="{{ site.url }}{{ site.baseurl }}/category/{{ post.category }}">
+                <a href="{{ site.url }}{{ site.baseurl }}/category/{{ post.category }}">
                     <span>{{ post.category }}</span>
-                </a> -->
+                </a>
             </span>
             <div class="box-body">
                 {% if post.image %}
@@ -25,7 +25,7 @@ layout: main
                 <div class="box-info">
                     <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
                     <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
-              <!--          {% include date.html date=post.date %} -->
+                        {% include date.html date=post.date %}
                     </time>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <h2 class="post-title" itemprop="name">
