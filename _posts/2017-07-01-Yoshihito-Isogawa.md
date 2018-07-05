@@ -19,7 +19,7 @@ introduction: Tokyo, Japan <br> Writer, LEGO Robot Designer, Lecturer
 
 ## Bio
 
-Yoshihito is the author of the LEGO® MINDSTORMS® EV3 Idea Book and the LEGO® BOOST Idea Book, as well as other LEGO titles. In addition to creating LEGO moving models and participating in educational workshops and events using LEGO bricks, he plays the role of a judge for FIRST LEGO League (FLL) and for World Robot Olympiad (WRO) in Japan. He is a representative director of lsogawa Studio, Inc.
+Yoshihito is the author of the LEGO® MINDSTORMS® EV3 Idea Book and the LEGO® BOOST Idea Book, as well as other LEGO titles. In addition to creating LEGO moving models and participating in educational workshops and events using LEGO bricks, he plays the role of a judge for FIRST LEGO League (FLL) and for World Robot Olympiad (WRO) in Japan. He is the president of lsogawa Studio, Inc.
 
 
 Website: [LEt'sGO studio](http://isogawastudio.co.jp/legostudio/index.html)
