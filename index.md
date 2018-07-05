@@ -14,10 +14,11 @@ layout: main
 }
 
 .column {
-    float: center;
-    width: 25%;
-    padding: 10px 10px 10px 10px;
+    float: left;
+    width: 16.66666667%;
+    padding: 5px 0px 5px 0px;
 }
+
 
 .row:after {
     content: "";
@@ -25,16 +26,17 @@ layout: main
     clear: both;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 600px) {
     .column {
-        width: 50%;
+        width: 100%;
     }
-}
+
 </style>
 </head>
 <body>
 
-<div style="padding: 30px 30px 30px 30px;"><h2> <center>This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE the passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.</center></h2>
+<div style="padding: 30px 30px 30px 30px;"> <center> <h3> Robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
+</h3> </center> </div>
 
 <style>
 a:link {
@@ -64,26 +66,33 @@ a:active {
 
 <div class="row">
   <div class="column">
-    <a href="https://www.facebook.com/groups/1047713702069822/"><img style="width:100%" src="/assets/img/rm3-fb.png"></a>
-    <a href="https://www.facebook.com/groups/1047713702069822/"><h2><center>ROBOTMAK3RS</center></h2></a>
+
+  </div>
+
+  <div class="column">
+    <center><a href="https://www.facebook.com/groups/1047713702069822/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
+    <a href="https://www.facebook.com/groups/1047713702069822/"><h3><center>ROBOTMAK3RS</center></h3></a>
   </div>
   <div class="column">
-  <a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:100%" src="/assets/img/EV3-fb.png"></a>
-  <a href="https://www.facebook.com/groups/legomindstorms/"><h2><center>MINDSTORMS EV3</center></h2></a>
+  <center><a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:60%" src="/assets/img/EV3-fb.png"></a></center>
+  <a href="https://www.facebook.com/groups/legomindstorms/"><h3><center>MINDSTORMS EV3</center></h3></a>
   </div>
   <div class="column">
-  <a href="https://www.facebook.com/groups/letsdowedo/about/"><img style="width:100%" src="/assets/img/WeDo-fb.png"></a>
-  <a href="https://www.facebook.com/groups/letsdowedo/about/"><h2><center>WeDo</center></h2></a>
+  <center><a href="https://www.facebook.com/groups/letsdowedo/about/"><img style="width:60%" src="/assets/img/WeDo-fb.png"></a></center>
+  <a href="https://www.facebook.com/groups/letsdowedo/about/"><h3><center>WeDo</center></h3></a>
   </div>
   <div class="column">
-  <a href="https://www.facebook.com/groups/BOOSTcommunity/"><img style="width:100%" src="/assets/img/BOOST-fb.png"></a>
-  <a href="https://www.facebook.com/groups/BOOSTcommunity/"><h2><center>BOOST</center></h2></a>
+  <center><a href="https://www.facebook.com/groups/BOOSTcommunity/"><img style="width:60%" src="/assets/img/BOOST-fb.png"></a></center>
+  <a href="https://www.facebook.com/groups/BOOSTcommunity/"><h3><center>BOOST</center></h3></a>
   </div>
+  <div class="column">
+
+  </div>
+
 </div>
 
-<div style="padding: 30px 30px 30px 30px;"> <center> <h4> Our Community of LEGO Robot Experts </h4> </center> </div>
 
-
+<div style="padding: 30px 30px 30px 30px;"><h2> <center>Our Community of LEGO Robot Experts </center></h2>
 
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
