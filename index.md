@@ -5,8 +5,59 @@ layout: main
 
 <img style="width:100%" src="/assets/img/logo-rc.png">
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px 10px 10px 10px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+</style>
+</head>
+<body>
+
+<div style="padding: 30px 30px 30px 30px;"><h2> <center>Our Community of LEGO Robot Experts </center></h2>
 <div style="padding: 30px 30px 30px 30px;"> <center> <h3> Robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
 </h3> </center> </div>
+
+<div class="row">
+  <div class="column">
+    <h2><center>Column 1</center></h2>
+    <p><center>Some text..</center></p>
+  </div>
+  <div class="column">
+    <h2><center>Column 2</center></h2>
+    <p><center>Some text..</center></p>
+  </div>
+  <div class="column">
+    <h2><center>Column 3</center></h2>
+    <p><center>Some text..</center></p>
+  </div>
+  <div class="column">
+    <h2><center>Column 4</center></h2>
+    <p><center>Some text..</center></p>
+  </div>
+</div>
+
+
 
 
     <div id="grid" class="row flex-grid">
