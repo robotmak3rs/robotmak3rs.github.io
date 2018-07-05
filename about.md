@@ -21,12 +21,12 @@ The <a href="https://www.facebook.com/groups/Robotmak3rsRLOC/">ROBOTMAK3RS</a> F
 <a href="https://www.facebook.com/groups/BOOSTcommunity/">facebook.com/groups/boostcommunity/</a><br>
 
 #### We encourage you to use any of these hashtags 
-<strong>#ROBOTMAK3RS<br>
+    #ROBOTMAK3RS<br>
 	#MINDSTORMSmagic<br> 
 	#MINDSTORMSEV3<br>  
-	#MINDSTORMS <br>
+	#MINDSTORMS<br>
 	#BOOSTmagic<br> 
-	#letsdoWeDo</strong>
+	#letsdoWeDo
 
 <em>We are currently not accepting new members as we are still in the setting up phase.</em>
 Meanwhile, please use the Contact form in the menu if you would like to reach out to us.
