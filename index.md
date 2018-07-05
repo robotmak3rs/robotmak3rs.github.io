@@ -27,14 +27,14 @@ layout: main
 
 @media screen and (max-width: 300px) {
     .column {
-        width: 100%;
+        width: 50%;
     }
 }
 </style>
 </head>
 <body>
 
-<div style="padding: 30px 30px 30px 30px;"><h2> <center>Our Community of LEGO Robot Experts </center></h2>
+<div style="padding: 30px 30px 30px 30px;"><h2> <center>This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE the passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.</center></h2>
 
 <style>
 a:link {
@@ -81,7 +81,7 @@ a:active {
   </div>
 </div>
 
-<div style="padding: 30px 30px 30px 30px;"> <center> <h3> We are robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
+<div style="padding: 30px 30px 30px 30px;"> <center> <h4> Our Community of LEGO Robot Experts 
 </h3> </center> </div>
 
 
