@@ -35,8 +35,32 @@ layout: main
 <body>
 
 <div style="padding: 30px 30px 30px 30px;"><h2> <center>Our Community of LEGO Robot Experts </center></h2>
-<div style="padding: 30px 30px 30px 30px;"> <center> <h3> Robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
-</h3> </center> </div>
+
+<style>
+a:link {
+    color: #5b82af;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #5b82af;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2395E4;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: #5b82af;
+    background-color: transparent;
+    text-decoration: none;
+}
+</style>
 
 <div class="row">
   <div class="column">
@@ -57,6 +81,8 @@ layout: main
   </div>
 </div>
 
+<div style="padding: 30px 30px 30px 30px;"> <center> <h3> Robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
+</h3> </center> </div>
 
 
 
