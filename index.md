@@ -14,7 +14,7 @@ layout: main
 }
 
 .column {
-    float: left;
+    float: center;
     width: 25%;
     padding: 10px 10px 10px 10px;
 }
@@ -81,8 +81,7 @@ a:active {
   </div>
 </div>
 
-<div style="padding: 30px 30px 30px 30px;"> <center> <h4> Our Community of LEGO Robot Experts 
-</h3> </center> </div>
+<div style="padding: 30px 30px 30px 30px;"> <center> <h4> Our Community of LEGO Robot Experts </h4> </center> </div>
 
 
 
