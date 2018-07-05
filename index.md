@@ -5,8 +5,7 @@ layout: main
 
 <img style="width:100%" src="/assets/img/logo-rc.png">
 
-## Heading 2
-<em> Robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science Technology Engineering Arts and Mathematics via the joys of "playing" with LEGO.
+## <em> Robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science Technology Engineering Arts and Mathematics via the joys of "playing" with LEGO.
 
  </em>
 
