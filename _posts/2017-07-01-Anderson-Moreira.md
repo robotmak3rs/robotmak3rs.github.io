@@ -2,7 +2,7 @@
 layout: post
 title: "Anderson Moreira"
 date: 2017-07-01 12:59:40
-image: '/assets/img/makers/anderson.jpg'
+image: '/assets/img/makers/Anderson.jpg'
 description: Santo André, Brazil <br> Professor, Instituto Mauá de Tecnologia
 category: 'life'
 tags:
