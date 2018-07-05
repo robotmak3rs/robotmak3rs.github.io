@@ -11,23 +11,23 @@ permalink: /about/
 ### [Recognized LEGO Online Community of Robot Experts]
 
 
-We are robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science Technology Engineering Arts and Mathematics via the joys of "playing" with LEGO.
+We are robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts and Mathematics via the joys of "playing" with LEGO.
 
 
-The ROBOTMAK3RS Facebook group is by invitation only.
-https://www.facebook.com/groups/robotmak3rs/ act as the mother ship of the 3 well known communities;
+The <a href="https://www.facebook.com/groups/robotmak3rs/">ROBOTMAK3RS</a> Facebook group is by invitation only and acts as the mother ship of the 3 well known communities;
 
-https://www.facebook.com/groups/legomindstorms/
-https://www.facebook.com/groups/letsdowedo/
-https://www.facebook.com/groups/BOOSTcommunity/
-
+<a href="https://www.facebook.com/groups/legomindstorms/">facebook.com/groups/legomindstorms/</a>
+<a href="https://www.facebook.com/groups/letsdowedo/">facebook.com/groups/letsdowedo/</a>
+<a href="https://www.facebook.com/groups/BOOSTcommunity/">facebook.com/groups/boostcommunity/</a>
 
 #### We encourage you to use any of these hashtags 
-<strong>#ROBOTMAK3RS</strong>
-<strong>#MINDSTORMSmagic #MINDSTORMSEV3  #MINDSTORMS</strong>
-<strong>#BOOSTmagic</strong>
-<strong>#letsdoWeDo</strong>
+<strong>#ROBOTMAK3RS 
+	#MINDSTORMSmagic 
+	#MINDSTORMSEV3  
+	#MINDSTORMS 
+	#BOOSTmagic 
+	#letsdoWeDo</strong>
 
 <em>We are currently not accepting new members as we are still in the setting up phase.</em>
-Please use the Contact form in the menu if you would like to reach out to us.
+Meanwhile, please use the Contact form in the menu if you would like to reach out to us.
 
