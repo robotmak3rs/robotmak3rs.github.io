@@ -3,14 +3,14 @@ layout: post
 title: "Sanjay Seshan"
 date: 2018-07-04 12:26:40
 image: '/assets/img/makers/Sanjay.jpg'
-description: Pittsburgh, Pennsylvania, USA <br> Educator
+description: Pittsburgh, Pennsylvania, USA <br> Educator, EV3Lessons
 category: 'MINDSTORMS Boost WeDo Educator'
 tags:
 - MINDSTORMS
 - Boost
 - WeDo
 - Educator
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+twitter_text:
 introduction: Pittsburgh, Pennsylvania, USA <br> Educator
 ---
 

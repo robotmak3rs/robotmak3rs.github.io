@@ -4,7 +4,7 @@ title: "Asha Seshan"
 date: 2015-07-01 12:59:40
 image: '/assets/img/makers/Asha.jpg'
 description: Pittsburgh, PA, USA <br> Educator
-category: 'life'
+category: ''
 tags:
 - MINDSTORMS
 - Boost

@@ -4,7 +4,7 @@ title: "Marc-André Bazergui"
 date: 2018-07-04 12:59:40
 image: '/assets/img/makers/Marc.jpg'
 description: Montreal, Quebec, Canada <br> Freelance Consultant
-category: 'life'
+category: ''
 tags:
 - MINDSTORMS
 - Boost
