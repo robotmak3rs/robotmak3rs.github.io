@@ -19,7 +19,6 @@ layout: main
     padding: 5px 0px 5px 0px;
 }
 
-
 .row:after {
     content: "";
     display: table;
@@ -33,6 +32,7 @@ layout: main
 
 </style>
 </head>
+
 <body>
 
 <div style="padding: 30px 30px 30px 30px;"> <center> <h3> Robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
@@ -65,9 +65,9 @@ a:active {
 </style>
 
 <div class="row">
-  <div class="column">
+<div class="column">
 
-  </div>
+</div>
 
   <div class="column">
     <center><a href="https://www.facebook.com/groups/1047713702069822/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
