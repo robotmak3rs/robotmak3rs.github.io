@@ -1,3 +1,5 @@
+# Jekyll
+# =========================
 _site
 
 # Windows image file caches
@@ -31,6 +33,9 @@ $RECYCLE.BIN/
 Icon
 # Thumbnails
 ._*
+
+# Linux
+# =========================
 *~
 
 # Files that might appear on external disk
