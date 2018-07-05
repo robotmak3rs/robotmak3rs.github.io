@@ -40,18 +40,22 @@ layout: main
 
 <div class="row">
   <div class="column">
-    <h2><center>RobotMAK3RS</center></h2>
+    <img style="width:100%" src="/assets/img/message.gif">
+    <h2><center>ROBOTMAK3RS</center></h2>
     <p><center>Some text..</center></p>
   </div>
   <div class="column">
+    <img style="width:100%" src="/assets/img/message.gif">
     <h2><center>MINDSTORMS EV3</center></h2>
     <p><center>Some text..</center></p>
   </div>
   <div class="column">
+    <img style="width:100%" src="/assets/img/message.gif">
     <h2><center>WeDo</center></h2>
     <p><center>Some text..</center></p>
   </div>
   <div class="column">
+    <img style="width:100%" src="/assets/img/message.gif">
     <h2><center>BOOST</center></h2>
     <p><center>Some text..</center></p>
   </div>
