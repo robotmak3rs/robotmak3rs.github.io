@@ -104,4 +104,3 @@ layout: main
         </article>
     {% endfor %}
     </div>
-</main>
