@@ -40,23 +40,23 @@ layout: main
 
 <div class="row">
   <div class="column">
-    <img style="width:100%" src="/assets/img/message.gif">
-    <h2><center>ROBOTMAK3RS</center></h2>
+    <a href="https://www.facebook.com/groups/1047713702069822/"><img style="width:100%" src="/assets/img/message.gif"></a>
+    <a href="https://www.facebook.com/groups/1047713702069822/"><h2><center>ROBOTMAK3RS</center></h2></a>
     <p><center>Some text..</center></p>
   </div>
   <div class="column">
-    <img style="width:100%" src="/assets/img/message.gif">
-    <h2><center>MINDSTORMS EV3</center></h2>
+  <a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:100%" src="/assets/img/message.gif"></a>
+  <a href="https://www.facebook.com/groups/legomindstorms/"><h2><center>MINDSTORMS EV3</center></h2></a>
     <p><center>Some text..</center></p>
   </div>
   <div class="column">
-    <img style="width:100%" src="/assets/img/message.gif">
-    <h2><center>WeDo</center></h2>
+  <a href="https://www.facebook.com/groups/letsdowedo/about/"><img style="width:100%" src="/assets/img/message.gif"></a>
+  <a href="https://www.facebook.com/groups/letsdowedo/about/"><h2><center>WeDo</center></h2></a>
     <p><center>Some text..</center></p>
   </div>
   <div class="column">
-    <img style="width:100%" src="/assets/img/message.gif">
-    <h2><center>BOOST</center></h2>
+  <a href="https://www.facebook.com/groups/BOOSTcommunity/"><img style="width:100%" src="/assets/img/message.gif"></a>
+  <a href="https://www.facebook.com/groups/BOOSTcommunity/"><h2><center>BOOST</center></h2></a>
     <p><center>Some text..</center></p>
   </div>
 </div>
