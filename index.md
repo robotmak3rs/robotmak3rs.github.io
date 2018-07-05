@@ -5,9 +5,85 @@ layout: main
 
 <img style="width:100%" src="/assets/img/logo-rc.png">
 
-## <em> Robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science Technology Engineering Arts and Mathematics via the joys of "playing" with LEGO.
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
 
- </em>
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px 10px 10px 10px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+</style>
+</head>
+<body>
+
+<div style="padding: 30px 30px 30px 30px;"><h2> <center>Our Community of LEGO Robot Experts </center></h2>
+
+<style>
+a:link {
+    color: #5b82af;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #5b82af;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2395E4;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: #5b82af;
+    background-color: transparent;
+    text-decoration: none;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <a href="https://www.facebook.com/groups/1047713702069822/"><img style="width:100%" src="/assets/img/RM3.jpg"></a>
+    <a href="https://www.facebook.com/groups/1047713702069822/"><h2><center>ROBOTMAK3RS</center></h2></a>
+  </div>
+  <div class="column">
+  <a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:100%" src="/assets/img/EV3.jpg"></a>
+  <a href="https://www.facebook.com/groups/legomindstorms/"><h2><center>MINDSTORMS EV3</center></h2></a>
+  </div>
+  <div class="column">
+  <a href="https://www.facebook.com/groups/letsdowedo/about/"><img style="width:100%" src="/assets/img/WeDo.jpg"></a>
+  <a href="https://www.facebook.com/groups/letsdowedo/about/"><h2><center>WeDo</center></h2></a>
+  </div>
+  <div class="column">
+  <a href="https://www.facebook.com/groups/BOOSTcommunity/"><img style="width:100%" src="/assets/img/BOOST.jpg"></a>
+  <a href="https://www.facebook.com/groups/BOOSTcommunity/"><h2><center>BOOST</center></h2></a>
+  </div>
+</div>
+
+<div style="padding: 30px 30px 30px 30px;"> <center> <h3> Robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
+</h3> </center> </div>
+
 
 
     <div id="grid" class="row flex-grid">
@@ -50,4 +126,3 @@ layout: main
         </article>
     {% endfor %}
     </div>
-</main>
