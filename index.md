@@ -40,19 +40,19 @@ layout: main
 
 <div class="row">
   <div class="column">
-    <h2><center>Column 1</center></h2>
+    <h2><center>RobotMAK3RS</center></h2>
     <p><center>Some text..</center></p>
   </div>
   <div class="column">
-    <h2><center>Column 2</center></h2>
+    <h2><center>MINDSTORMS EV3</center></h2>
     <p><center>Some text..</center></p>
   </div>
   <div class="column">
-    <h2><center>Column 3</center></h2>
+    <h2><center>WeDo</center></h2>
     <p><center>Some text..</center></p>
   </div>
   <div class="column">
-    <h2><center>Column 4</center></h2>
+    <h2><center>BOOST</center></h2>
     <p><center>Some text..</center></p>
   </div>
 </div>
