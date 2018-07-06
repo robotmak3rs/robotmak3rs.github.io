@@ -35,7 +35,7 @@ layout: main
 
 <body>
 
-<div style="padding: 30px 70px 30px 70px;"> <center> <h3> This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE the passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
+<div style="padding: 30px 120px 30px 120px;"> <center> <h3> This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE the passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
 </h3> </center> </div>
 
 <style>
