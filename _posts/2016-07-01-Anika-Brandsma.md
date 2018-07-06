@@ -18,6 +18,6 @@ introduction: The Netherlands <br> Mechanical Engineer
 ## Bio
 
 
-During working hours I'm a mechanical engineer at a high-tech compan. In the evening I'm a ROBOTMAK3R. I prefer building robotic animals as well as bringing life to LEGO Friends and LEGO Elves sets with the incorporation of MINDSTORMS, BOOST or WeDo.  I share my creations all around the world including at World Robot Olympiad (WRO), FIRST LEGO League (FLL), and LEGOWORLD. My entire family enjoys building with LEGO. We all have a strong passion for nature & technology.
+During working hours, Anika is a mechanical engineer at a high-tech company. In the evening she is a ROBOTMAK3R. She prefer building robotic animals as well as bringing life to LEGO Friends and LEGO Elves sets with the incorporation of MINDSTORMS, BOOST or WeDo. She shares her creations all around the world including at World Robot Olympiad (WRO), FIRST LEGO League (FLL), and LEGOWORLD. Her entire family enjoys building with LEGO. They all have a strong passion for nature & technology.
 
 [Facebook](https://www.facebook.com/Vuurzoon/), [YouTube](https://www.youtube.com/Vuurzoon)
