@@ -9,6 +9,7 @@ tags:
 - MINDSTORMS
 - Boost
 - WeDo
+- Ambassador
 twitter_text: mbzrg
 introduction: Montreal, Quebec, Canada <br> Freelance Consultant
 ---
