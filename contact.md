@@ -13,7 +13,6 @@ permalink: /contact/
 </style>
 
 <div class="container">
-
   <h2>Talk to me</h2>
 
   <div id="form" class="contact-form">
