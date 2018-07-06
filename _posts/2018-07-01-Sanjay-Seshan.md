@@ -11,6 +11,7 @@ tags:
 - WeDo
 - Educator
 - EV3Dev
+- Editor
 twitter_text:
 introduction: <b>Pittsburgh, Pennsylvania, USA</b> <br> Educator, EV3Lessons
 ---
