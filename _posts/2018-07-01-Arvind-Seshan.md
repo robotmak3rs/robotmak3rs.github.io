@@ -25,4 +25,6 @@ Arvind co-founded EV3 Lessons, a go-to site for learning to program with MINDSTO
 
 In addition, Arvind has been a participant, coach, judge and referee at FIRST LEGO League events. He has won numerous awards in LEGO robotics at the world-level, including the prestigious World Champion's award at FIRST Championships. He is also the youngest recipient of the Coach award at FIRST LEGO League World Festival.
 
+Arvind has also served as a technical editor for a MINDSTORMS-related book.
+
 Websites: [EV3 Lessons](http://www.ev3lessons.com), [FLL Tutorials](http://www.flltutorials.com), [Beyond The Instructions](http://www.beyondtheinstructions.com)
