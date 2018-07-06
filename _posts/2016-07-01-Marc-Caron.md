@@ -3,14 +3,14 @@ layout: post
 title: "Marc-André Caron"
 date: 2018-07-02 12:26:40
 image: '/assets/img/makers/MarcC.jpg'
-description:  Canada <br> Animator, Teacher
+description:  Canada <br> STEM Trainer, BB.ca
 category: ''
 tags:
 - MINDSTORMS
 - WeDo
 - Educator
 twitter_text:
-introduction: Canada <br> Animator, Teacher
+introduction: Canada <br> STEM Trainer, BB.ca
 ---
 
 
