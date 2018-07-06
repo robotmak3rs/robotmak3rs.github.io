@@ -19,4 +19,4 @@ introduction: Christchurch, New Zealand <br> Escape Room Designer / Student
 Avery and Andrew Dean, a father and son building team, create interactive animatronic characters powered by LEGO Mindstorms. They design and build their robots together for fun, but leave all of the programming to 11 year old Avery. The pair has been featured on childrens TV shows and news programs as they share their love of LEGO at brick shows, schools, imagination centers, and workshops. Recently Avery has been developing an “animatronics focused curriculum” to promote more “LEGO character building” that he has been testing out at rural schools without stems programs.
 
 
-Website: [tinyurl.com/nzaverydean](https://tinyurl.com/nzaverydean)
+[YouTube](https://tinyurl.com/nzaverydean)

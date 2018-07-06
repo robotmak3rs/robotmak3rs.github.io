@@ -7,7 +7,7 @@ description:  Lisbon, Portugal <br> Systems Administrator
 category: ''
 tags:
 - MINDSTORMS
-- Hacker
+- EV3Dev
 twitter_text:
 introduction: Lisbon, Portugal <br> Systems Administrator
 ---
@@ -17,7 +17,7 @@ introduction: Lisbon, Portugal <br> Systems Administrator
 ## Bio
 
 
-Jorge is an Engineer that loves robots, automation and science. He started using LEGO as a fast framework to share his ideas with his kids and soon got carried away. Lately he has been trying to find new uses for his LEGO MINDSTORMS mixing it with other microcontrollers and several types of gadgets.
+Jorge is an engineer who loves robots, automation and science. He started using LEGO as a fast framework to share his ideas with his kids and soon got carried away. Lately he has been trying to find new uses for his LEGO MINDSTORMS mixing it with other microcontrollers and several types of gadgets.
 
 
 Website: [O Falcão](https://ofalcao.pt/)

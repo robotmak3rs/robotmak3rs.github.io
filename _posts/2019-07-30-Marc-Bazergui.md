@@ -10,6 +10,8 @@ tags:
 - Boost
 - WeDo
 - Ambassador
+- Admin
+- Editor
 twitter_text: mbzrg
 introduction: Montreal, Quebec, Canada <br> Freelance Consultant
 ---

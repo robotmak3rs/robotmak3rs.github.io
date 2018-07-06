@@ -9,6 +9,8 @@ tags:
 - MINDSTORMS
 - Boost
 - Educator
+- Admin
+- Editor
 twitter_text:
 introduction: Pittsburgh, PA, USA <br> Educator
 ---
