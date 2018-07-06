@@ -3,10 +3,11 @@ layout: post
 title: "Kyle Markland"
 date: 2017-07-06 12:22:40
 image: '/assets/img/makers/Kyle.jpg'
-description: Long Island, New York, USA<br> Mechanical Engineer, BuilderDude35,
+description: Long Island, New York, USA<br> Mechanical Engineer, BuilderDude35
 category: ''
 tags:
 - MINDSTORMS
+- Author
 twitter_text:
 introduction: Long Island, New York, USA<br> Mechanical Engineer, BuilderDude35
 ---
