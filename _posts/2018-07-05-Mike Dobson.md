@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SMike Dobson"
+title: "Mike Dobson"
 date: 2018-07-04 12:26:40
 image: '/assets/img/makers/MikeD.jpg'
 description: United Kingdom  <br> Security Systems Engineer
