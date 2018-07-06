@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lee Magpili"
-date: 2017-07-01 12:59:40
+date: 2018-07-03 12:24:40
 image: '/assets/img/makers/Lee.jpg'
 description: Bronx, NY <br> Toy Designer
 category: ''

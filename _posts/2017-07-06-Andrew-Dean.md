@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Andrew & Avery Dean"
-date: 2018-07-04 12:26:40
+date: 2017-07-06 12:22:40
 image: '/assets/img/makers/Dean.png'
 description:  Christchurch, New Zealand <br> Escape Room Designer / Student
 category: ''
