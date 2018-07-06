@@ -10,7 +10,7 @@ tags:
 - Educator
 - Admin
 twitter_text:
-introduction: Lisbon, Portugal <br> Systems Administrator
+introduction: Australia <br> Technology Education Expert
 ---
 
 
