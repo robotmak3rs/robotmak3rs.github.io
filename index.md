@@ -6,6 +6,8 @@ layout: main
 <img style="width:100%" src="/assets/img/logo-rc.png">
 
 <html>
+
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -28,15 +30,17 @@ layout: main
 @media screen and (max-width: 600px) {
     .column {
         width: 100%;
+        padding: 5px 100px 5px 100px;
     }
+
 
 </style>
 </head>
 
 <body>
 
-<div style="padding: 30px 200px 30px 200px;"> <center> <h3> This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE the passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
-</h3> </center> </div>
+
+
 
 <style>
 a:link {
@@ -63,27 +67,30 @@ a:active {
     text-decoration: none;
 }
 </style>
-
+<div style="margin-left:20%;margin-right:20%">
+<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE the passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
+</h3>
+</div>
 <div class="row">
 <div class="column">
 
 </div>
-
   <div class="column">
+
     <center><a href="https://www.facebook.com/groups/1047713702069822/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
-    <a href="https://www.facebook.com/groups/1047713702069822/"><h3><center>ROBOTMAK3RS</center></h3></a>
+    <a href="https://www.facebook.com/groups/1047713702069822/"><h3 style="text-align: center;">ROBOTMAK3RS</h3></a>
   </div>
   <div class="column">
   <center><a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:60%" src="/assets/img/EV3-fb.png"></a></center>
-  <a href="https://www.facebook.com/groups/legomindstorms/"><h3><center>MINDSTORMS EV3</center></h3></a>
+  <a href="https://www.facebook.com/groups/legomindstorms/"><h3 style="text-align: center;">MINDSTORMS EV3</h3></a>
   </div>
   <div class="column">
   <center><a href="https://www.facebook.com/groups/letsdowedo/about/"><img style="width:60%" src="/assets/img/WeDo-fb.png"></a></center>
-  <a href="https://www.facebook.com/groups/letsdowedo/about/"><h3><center>WeDo</center></h3></a>
+  <a href="https://www.facebook.com/groups/letsdowedo/about/"><h3 style="text-align: center;">WeDo</h3></a>
   </div>
   <div class="column">
   <center><a href="https://www.facebook.com/groups/BOOSTcommunity/"><img style="width:60%" src="/assets/img/BOOST-fb.png"></a></center>
-  <a href="https://www.facebook.com/groups/BOOSTcommunity/"><h3><center>BOOST</center></h3></a>
+  <a href="https://www.facebook.com/groups/BOOSTcommunity/"><h3 style="text-align: center;">BOOST</h3></a>
   </div>
   <div class="column">
 
@@ -92,7 +99,9 @@ a:active {
 </div>
 
 
-<div style="padding: 30px 30px 30px 30px;"><h2> <center>Meet the Members of the ROBOTMAK3RS Community</center></h2>
+<div style="padding: 30px 30px 30px 30px;"><h2 style="text-align: center;"> Meet the Members of the ROBOTMAK3RS Community</h2></div>
+
+
 
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
@@ -113,9 +122,9 @@ a:active {
                 {% endif %}
                 <div class="box-info">
                     <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
-                    <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
-              <!--          {% include date.html date=post.date %} -->
-                    </time>
+                <!--    <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
+                        {% include date.html date=post.date %}
+                    </time>-->
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <h2 class="post-title" itemprop="name">
                             {{ post.title }}
