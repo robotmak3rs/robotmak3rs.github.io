@@ -3,7 +3,7 @@ layout: post
 title: "Yoshihito Isogawa"
 date: 2018-07-02 12:59:40
 image: '/assets/img/makers/isogawa.jpg'
-description: Tokyo, Japan <br> Writer, LEGO Robot Designer, Lecturer
+description: <b>Tokyo, Japan</b> <br> Writer, LEGO Robot Designer, Lecturer
 category: ''
 tags:
 - MINDSTORMS
@@ -12,7 +12,7 @@ tags:
 - Author
 - Educator
 twitter_text:
-introduction: Tokyo, Japan <br> Writer, LEGO Robot Designer, Lecturer
+introduction: <b>Tokyo, Japan</b> <br> Writer, LEGO Robot Designer, Lecturer
 ---
 
 

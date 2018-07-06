@@ -3,12 +3,12 @@ layout: post
 title: "Mark Crosbie"
 date: 2018-07-02 12:26:40
 image: '/assets/img/makers/Crosbie.jpg'
-description:  Dublin, Ireland <br> Privacy Professional
+description:  <b>Dublin, Ireland</b> <br> Privacy Professional
 category: ''
 tags:
 - MINDSTORMS
 twitter_text:
-introduction: Dublin, Ireland <br> Privacy Professional
+introduction: <b>Dublin, Ireland</b> <br> Privacy Professional
 ---
 
 

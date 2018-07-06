@@ -3,12 +3,12 @@ layout: post
 title: "Simon Burfield"
 date: 2017-07-06 12:22:40
 image: '/assets/img/makers/Simon.jpg'
-description:  Hampshire, UK<br> Application Development Lead
+description:  <b>Hampshire, UK</b><br> Application Development Lead
 category: ''
 tags:
 - MINDSTORMS
 twitter_text:
-introduction: Hampshire, UK<br> Application Development lead
+introduction: <b>Hampshire, UK</b><br> Application Development lead
 ---
 
 

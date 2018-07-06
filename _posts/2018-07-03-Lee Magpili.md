@@ -3,12 +3,12 @@ layout: post
 title: "Lee Magpili"
 date: 2018-07-03 12:24:40
 image: '/assets/img/makers/Lee.jpg'
-description: Bronx, NY <br> Toy Designer
+description: <b>Bronx, NY</b> <br> Toy Designer
 category: ''
 tags:
 - MINDSTORMS
 twitter_text:
-introduction: Bronx, NY <br> Toy Designer
+introduction: <b>Bronx, NY</b> <br> Toy Designer
 ---
 
 

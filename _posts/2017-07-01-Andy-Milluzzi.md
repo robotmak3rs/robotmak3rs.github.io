@@ -3,12 +3,12 @@ layout: post
 title: "Andy Milluzzi"
 date: 2017-07-01 12:59:40
 image: '/assets/img/makers/Andy.jpg'
-description: Florida, USA<br> Systems Engineer, Walt Disney
+description: <b>Florida, USA</b><br> Systems Engineer, Walt Disney
 category: ''
 tags:
 - MINDSTORMS
 twitter_text:
-introduction: Florida, USA<br> Systems Engineer, Walt Disney
+introduction: <b>Florida, USA</b><br> Systems Engineer, Walt Disney
 ---
 
 

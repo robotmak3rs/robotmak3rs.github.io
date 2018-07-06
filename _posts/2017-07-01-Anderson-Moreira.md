@@ -3,13 +3,13 @@ layout: post
 title: "Anderson Moreira"
 date: 2017-07-01 12:59:40
 image: '/assets/img/makers/Anderson.jpg'
-description: Santo André, Brazil <br> Professor, Instituto Mauá de Tecnologia
+description: <b>Santo André, Brazil</b> <br> Professor, Instituto Mauá de Tecnologia
 category: 'life'
 tags:
 - MINDSTORMS
 - Educator
 twitter_text:
-introduction: Santo André, Brazil <br> Professor, Instituto Mauá de Tecnologia
+introduction: <b>Santo André, Brazil</b> <br> Professor, Instituto Mauá de Tecnologia
 ---
 
 

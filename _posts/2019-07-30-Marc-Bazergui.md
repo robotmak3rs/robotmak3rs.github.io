@@ -3,7 +3,7 @@ layout: post
 title: "Marc-André Bazergui"
 date: 2018-07-04 12:59:40
 image: '/assets/img/makers/Marc.jpg'
-description: Montreal, Quebec, Canada <br> Freelance Consultant
+description: <b>Montreal, Quebec, Canada</b> <br> Freelance Consultant
 category: ''
 tags:
 - MINDSTORMS
@@ -13,7 +13,7 @@ tags:
 - Admin
 - Editor
 twitter_text: mbzrg
-introduction: Montreal, Quebec, Canada <br> Freelance Consultant
+introduction: <b>Montreal, Quebec, Canada</b> <br> Freelance Consultant
 ---
 
 

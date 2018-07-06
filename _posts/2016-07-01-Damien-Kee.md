@@ -3,14 +3,14 @@ layout: post
 title: "Damien Kee"
 date: 2016-09-02 12:26:40
 image: '/assets/img/makers/Damien.jpg'
-description:  Australia <br> Technology Education Expert
+description:  <b>Australia</b> <br> Technology Education Expert
 category: ''
 tags:
 - MINDSTORMS
 - Educator
 - Admin
 twitter_text:
-introduction: Australia <br> Technology Education Expert
+introduction: <b>Australia</b> <br> Technology Education Expert
 ---
 
 

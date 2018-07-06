@@ -3,13 +3,13 @@ layout: post
 title: "Jorge Pereira"
 date: 2018-07-02 12:26:40
 image: '/assets/img/makers/Jorge.jpg'
-description:  Lisbon, Portugal <br> Systems Administrator
+description:  <b>Lisbon, Portugal</b> <br> Systems Administrator
 category: ''
 tags:
 - MINDSTORMS
 - EV3Dev
 twitter_text:
-introduction: Lisbon, Portugal <br> Systems Administrator
+introduction: <b>Lisbon, Portugal</b> <br> Systems Administrator
 ---
 
 

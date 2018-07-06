@@ -3,14 +3,14 @@ layout: post
 title: "Laurens Valk"
 date: 2018-07-02 12:24:40
 image: '/assets/img/makers/Laurens.jpg'
-description: Delft, The Netherlands <br> Robotics Engineer
+description: <b>Delft, The Netherlands</b> <br> Robotics Engineer
 category: ''
 tags:
 - MINDSTORMS
 - Boost
 - Author
 twitter_text:
-introduction: Delft, The Netherlands <br> Robotics Engineer
+introduction: <b>Delft, The Netherlands</b> <br> Robotics Engineer
 ---
 
 

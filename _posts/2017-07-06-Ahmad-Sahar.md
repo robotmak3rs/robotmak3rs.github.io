@@ -3,14 +3,14 @@ layout: post
 title: "Ahmad Sahar"
 date: 2017-02-06 12:22:40
 image: '/assets/img/makers/Ahmad.jpg'
-description:  Selangor, Malaysia<br> Trainer, Consultant Tomafuwi Productions
+description:  <b>Selangor, Malaysia</b><br> Trainer, Consultant Tomafuwi Productions
 category: ''
 tags:
 - MINDSTORMS
 - Boost
 - WeDo
 twitter_text:
-introduction: Selangor, Malaysia<br> Trainer, Consultant Tomafuwi Productions
+introduction: <b>Selangor, Malaysia</b><br> Trainer, Consultant Tomafuwi Productions
 ---
 
 

@@ -3,13 +3,13 @@ layout: post
 title: "David Lechner"
 date: 2018-07-02 12:26:40
 image: '/assets/img/makers/Lechner.jpg'
-description:  Edmond, OK, USA <br> Freelance Software Developer
+description:  <b>Edmond, OK, USA</b> <br> Freelance Software Developer
 category: ''
 tags:
 - MINDSTORMS
 - EV3Dev
 twitter_text:
-introduction: Edmond, OK, USA<br> Freelance Software Developer
+introduction: <b>Edmond, OK, USA</b><br> Freelance Software Developer
 ---
 
 

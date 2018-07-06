@@ -3,12 +3,12 @@ layout: post
 title: "Andrew & Avery Dean"
 date: 2017-07-06 12:22:40
 image: '/assets/img/makers/Dean.png'
-description:  Christchurch, New Zealand <br> Escape Room Designer / Student
+description:  <b>Christchurch, New Zealand</b> <br> Escape Room Designer / Student
 category: ''
 tags:
 - MINDSTORMS
 twitter_text:
-introduction: Christchurch, New Zealand <br> Escape Room Designer / Student
+introduction: <b>Christchurch, New Zealand</b> <br> Escape Room Designer / Student
 ---
 
 

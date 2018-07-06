@@ -3,13 +3,13 @@ layout: post
 title: "Sebastian Trella"
 date: 2018-07-02 12:26:40
 image: '/assets/img/makers/Sebastian.jpg'
-description:  Cologne, Germany <br>  IT Support Engineer
+description:  <b>Cologne, Germany</b> <br>  IT Support Engineer
 category: ''
 tags:
 - MINDSTORMS
 - Admin
 twitter_text:
-introduction: Cologne, Germany <br>  IT Support Engineer
+introduction: <b>Cologne, Germany</b> <br>  IT Support Engineer
 ---
 
 

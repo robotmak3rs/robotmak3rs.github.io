@@ -3,7 +3,7 @@ layout: post
 title: "Asha Seshan"
 date: 2015-07-01 12:59:40
 image: '/assets/img/makers/Asha.jpg'
-description: Pittsburgh, PA, USA <br> Educator
+description: <b>Pittsburgh, PA, USA</b> <br> Educator
 category: ''
 tags:
 - MINDSTORMS
@@ -12,7 +12,7 @@ tags:
 - Admin
 - Editor
 twitter_text:
-introduction: Pittsburgh, PA, USA <br> Educator
+introduction: <b>Pittsburgh, PA, USA</b> <br> Educator
 ---
 
 

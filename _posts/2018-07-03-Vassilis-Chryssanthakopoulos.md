@@ -3,7 +3,7 @@ layout: post
 title: "Vassilis Chryssanthakopoulos"
 date: 2018-07-03 12:24:40
 image: '/assets/img/makers/Vassilis.jpg'
-description: Greece <br> Educator, Designer
+description: <b>Greece</b> <br> Educator, Designer
 category: ''
 tags:
 - MINDSTORMS
@@ -12,7 +12,7 @@ tags:
 - Educator
 - Admin
 twitter_text:
-introduction: Greece <br> Educator, Designer
+introduction: <b>Greece</b> <br> Educator, Designer
 ---
 
 

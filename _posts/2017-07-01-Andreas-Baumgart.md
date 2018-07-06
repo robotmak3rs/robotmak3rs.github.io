@@ -3,13 +3,13 @@ layout: post
 title: "Andreas Baumgart"
 date: 2017-07-01 12:59:40
 image: '/assets/img/makers/Andreas.jpg'
-description: Jever, Germany<br> Lecturer, Jade Hochschule Wilhelmshaven
+description: <b>Jever, Germany</b><br> Lecturer, Jade Hochschule Wilhelmshaven
 category: ''
 tags:
 - MINDSTORMS
 - Educator
 twitter_text:
-introduction: Jever, Germany<br> Lecturer, Jade Hochschule Wilhelmshaven
+introduction: <b>Jever, Germany</b><br> Lecturer, Jade Hochschule Wilhelmshaven
 ---
 
 

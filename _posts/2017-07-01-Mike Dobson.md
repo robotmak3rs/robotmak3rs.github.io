@@ -3,13 +3,13 @@ layout: post
 title: "Mike Dobson"
 date: 2018-07-02 12:21:40
 image: '/assets/img/makers/MikeD.jpg'
-description: United Kingdom  <br> Security Systems Engineer
+description: <b>United Kingdom</b>  <br> Security Systems Engineer
 category: 'MINDSTORMS'
 tags:
 - MINDSTORMS
 
 twitter_text:
-introduction: United Kingdom  <br> Security Systems Engineer
+introduction: <b>United Kingdom</b>  <br> Security Systems Engineer
 ---
 
 

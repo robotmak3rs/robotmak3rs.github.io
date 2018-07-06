@@ -3,12 +3,12 @@ layout: post
 title: "Guilherme Constantino"
 date: 2016-07-02 12:26:40
 image: '/assets/img/makers/GuiC.jpg'
-description:  Taubaté, Brazil<br> Wahl Clipper
+description:  <b>Taubaté, Brazil</b><br> Wahl Clipper
 category: ''
 tags:
 - MINDSTORMS
 twitter_text:
-introduction: Taubaté, Brazil<br> Wahl Clipper
+introduction: <b>Taubaté, Brazil</b><br> Wahl Clipper
 ---
 
 

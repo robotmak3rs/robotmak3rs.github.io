@@ -3,14 +3,14 @@ layout: post
 title: "Anika Brandsma"
 date: 2018-07-02 12:26:40
 image: '/assets/img/makers/Anika.jpg'
-description:  The Netherlands <br> Mechanical Engineer
+description:  <b>The Netherlands</b> <br> Mechanical Engineer
 category: ''
 tags:
 - MINDSTORMS
 - Boost
 - WeDo
 twitter_text:
-introduction: The Netherlands <br> Mechanical Engineer
+introduction: <b>The Netherlands</b> <br> Mechanical Engineer
 ---
 
 

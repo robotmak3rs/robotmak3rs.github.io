@@ -3,12 +3,12 @@ layout: post
 title: "Will Gorman"
 date: 2018-07-02 12:26:40
 image: '/assets/img/makers/Will.jpg'
-description:  Orlando, Florida, USA <br> Software Developer
+description:  <b>Orlando, Florida, USA</b> <br> Software Developer
 category: ''
 tags:
 - MINDSTORMS
 twitter_text:
-introduction: Orlando, Florida, USA <br> Software Developer
+introduction: <b>Orlando, Florida, USA</b> <br> Software Developer
 ---
 
 

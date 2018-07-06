@@ -3,12 +3,12 @@ layout: post
 title: "Michael Brandl"
 date: 2018-07-02 12:26:40
 image: '/assets/img/makers/MikeB.jpg'
-description:  Vienna, Austria <br> Electrical Engineer
+description:  <b>Vienna, Austria</b> <br> Electrical Engineer
 category: ''
 tags:
 - MINDSTORMS
 twitter_text:
-introduction: Vienna, Austria <br> Electrical Engineer
+introduction: <b>Vienna, Austria</b> <br> Electrical Engineer
 ---
 
 

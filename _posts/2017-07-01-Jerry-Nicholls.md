@@ -3,12 +3,12 @@ layout: post
 title: "Jerry Nicholls"
 date: 2017-08-01 12:59:40
 image: '/assets/img/makers/Jerry.jpg'
-description: Bolton, United Kingdom <br> Lead Systems Engineer at Zen Internet
+description: <b>Bolton, United Kingdom</b> <br> Lead Systems Engineer at Zen Internet
 category: ''
 tags:
 - MINDSTORMS
 twitter_text:
-introduction: Bolton, United Kingdom <br> Lead Systems Engineer at Zen Internet
+introduction: <b>Bolton, United Kingdom</b> <br> Lead Systems Engineer at Zen Internet
 ---
 
 
