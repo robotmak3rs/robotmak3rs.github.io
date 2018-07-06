@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jerry Nicholls"
-date: 2015-07-01 12:59:40
+date: 2017-08-01 12:59:40
 image: '/assets/img/makers/Jerry.jpg'
 description: Bolton, United Kingdom <br> Lead Systems Engineer at Zen Internet
 category: ''

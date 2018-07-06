@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yoshihito Isogawa"
-date: 2017-07-01 12:59:40
+date: 2018-07-02 12:59:40
 image: '/assets/img/makers/isogawa.jpg'
 description: Tokyo, Japan <br> Writer, LEGO Robot Designer, Lecturer
 category: ''
