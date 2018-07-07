@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Jildert De Wachter"
-date: 2018-07-04 12:26:40
-image: '/assets/img/makers/Jildert.png'
-description: <b>Malle, Belgium </b><br> Technical Consultant
+title: "Andrew & Avery Dean"
+date: 2017-07-06 12:22:40
+image: '/assets/img/makers/Dean.png'
+description:  <b>Christchurch, New Zealand</b> <br> Escape Room Designer / Student
 category: ''
 tags:
 - MINDSTORMS
 twitter_text:
-introduction: <b>Malle, Belgium </b><br> Technical Consultant
+introduction: <b>Christchurch, New Zealand</b> <br> Escape Room Designer / Student
 ---
 
 
@@ -16,8 +16,7 @@ introduction: <b>Malle, Belgium </b><br> Technical Consultant
 ## Bio
 
 
-At the age of twelve, Jildert discovered LEGO MINDSTORMS. Ever since, he is passionate about making interactive robots and sharing his knowledge with others. He organises involving educational workshops for kids of all ages where he submerges them in the wonderful world of  LEGO MINDSTORMS and programming. 
+Avery and Andrew Dean, a father and son building team, create interactive animatronic characters powered by LEGO Mindstorms. They design and build their robots together for fun, but leave all of the programming to 11 year old Avery. The pair has been featured on childrens TV shows and news programs as they share their love of LEGO at brick shows, schools, imagination centers, and workshops. Recently Avery has been developing an “animatronics focused curriculum” to promote more “LEGO character building” that he has been testing out at rural schools without stems programs.
 
 
-
-YouTube: [ramacc0](https://www.youtube.com/user/ramacc0)
+[YouTube](https://tinyurl.com/nzaverydean)
