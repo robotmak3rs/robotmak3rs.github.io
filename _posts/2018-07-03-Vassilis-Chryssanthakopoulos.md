@@ -24,3 +24,5 @@ Vassilis Chryssanthakopoulos was an internationally acclaimed LEGO robotics desi
 Vassilis passed away unexpectedly on February 19, 2018. He is honored in this group for epitomizing our principles MAKE - SHARE - INSPIRE.
 
 [Article](http://www.legoengineering.com/reflections-on-vassilis-chryssanthakopoulos/)
+
+![placeholder](http://blastgames.org/wp-content/uploads/2017/06/half-blast-games-pro-logo-no-letters.png "blastgames.com")

@@ -12,6 +12,7 @@ tags:
 - Educator
 - EV3Dev
 - Editor
+- LUG
 twitter_text:
 introduction: <b>Pittsburgh, Pennsylvania, USA</b> <br> Co-founder of EV3Lessons, Student
 ---
@@ -27,4 +28,7 @@ In addition, Arvind has been a participant, coach, judge and referee at FIRST LE
 
 Arvind has also served as a technical editor for a MINDSTORMS-related book.
 
-Websites: [EV3 Lessons](http://www.ev3lessons.com), [FLL Tutorials](http://www.flltutorials.com), [Beyond The Instructions](http://www.beyondtheinstructions.com)
+Websites: [EV3 Lessons](http://www.ev3lessons.com), [FLL Tutorials](http://www.flltutorials.com), [Beyond The Instructions](http://www.beyondtheinstructions.com)<br>
+LUG: Steel City LUG
+
+![placeholder](http://www.ev3lessons.com/assets/images/EV3LessonsLogo.png "ev3lessons.com")

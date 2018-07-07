@@ -7,6 +7,7 @@ description:  <b>Taubaté, Brazil</b><br> Wahl Clipper
 category: ''
 tags:
 - MINDSTORMS
+- LUG
 twitter_text:
 introduction: <b>Taubaté, Brazil</b><br> Wahl Clipper
 ---
