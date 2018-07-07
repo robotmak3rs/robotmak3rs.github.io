@@ -3,7 +3,7 @@ layout: post
 title: "Asha Seshan"
 date: 2015-07-01 12:59:40
 image: '/assets/img/makers/Asha.jpg'
-description: <b>Pittsburgh, PA, USA</b> <br> Educator
+description: <b>Pittsburgh, Pennsylvania, USA</b> <br> Robotics Judge and Mentor
 category: ''
 tags:
 - MINDSTORMS
@@ -12,7 +12,7 @@ tags:
 - Admin
 - Editor
 twitter_text:
-introduction: <b>Pittsburgh, PA, USA</b> <br> Educator
+introduction: <b>Pittsburgh, Pennsylvania, USA</b> <br> Robotics Judge and Mentor
 ---
 
 

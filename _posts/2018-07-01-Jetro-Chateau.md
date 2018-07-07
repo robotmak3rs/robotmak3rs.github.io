@@ -3,7 +3,7 @@ layout: post
 title: "Jetro de Château"
 date: 2018-07-04 12:20:40
 image: '/assets/img/makers/Jetro.jpg'
-description: <b>Torrelavega, Spain</b> <br> Teacher, Teacher Trainer, Editor
+description: <b>Torrelavega, Spain</b> <br> STEM Teacher, Editor of HispaBrick Magazine
 category: 'MINDSTORMS Boost WeDo Educator'
 tags:
 - MINDSTORMS
@@ -14,7 +14,7 @@ tags:
 - Ambassador
 - Admin
 twitter_text:
-introduction: <b>Torrelavega, Spain</b> <br> Teacher, Teacher Trainer, Editor
+introduction: <b>Torrelavega, Spain</b> <br> STEM Teacher, Editor of Hispabrick Magazine
 ---
 
 
