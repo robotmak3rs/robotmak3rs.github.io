@@ -8,7 +8,6 @@ category: ''
 tags:
 - MINDSTORMS
 - Author
-- Educator
 twitter_text:
 introduction: <b>Long Island, New York, USA</b><br> Mechanical Engineer, BuilderDude35
 ---
