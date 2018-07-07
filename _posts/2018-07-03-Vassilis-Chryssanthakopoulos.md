@@ -10,7 +10,7 @@ tags:
 - Boost
 - WeDo
 - Educator
-- Admin
+- Legend
 twitter_text:
 introduction: <b>Greece</b> <br> Educator, Designer
 ---
