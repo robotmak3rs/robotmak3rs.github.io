@@ -3,7 +3,7 @@ layout: main
 ---
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
 
-<img style="width:100%" src="/assets/img/logo-rc.png">
+<img style="width:100%" src="/assets/img/rm3-logo-blk.jpg">
 
 <html>
 
