@@ -7,7 +7,6 @@ description: <b>Florida, USA</b><br> Systems Engineer, Walt Disney
 category: ''
 tags:
 - MINDSTORMS
-- Editor
 twitter_text:
 introduction: <b>Florida, USA</b><br> Systems Engineer, Walt Disney
 ---

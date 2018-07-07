@@ -739,8 +739,7 @@ main {
   -ms-flex-flow: row wrap;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-  flex-flow: row wrap;
-  justify-content: center;
+  flex-flow: row wrap
 }
 
 .title-category {
@@ -765,7 +764,7 @@ main {
 }
 
 .box-item {
-  -ms-flex: 0 0 300px;
+  -ms-flex: 1 0 300px;
   -webkit-box-flex: 1;
   flex: 0 0 300px;
   margin: 0 0 1.875rem;
