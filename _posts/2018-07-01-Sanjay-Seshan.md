@@ -11,6 +11,7 @@ tags:
 - WeDo
 - Educator
 - EV3Dev
+- Editor
 twitter_text:
 introduction: <b>Pittsburgh, Pennsylvania, USA</b> <br> Educator, EV3Lessons
 ---
@@ -24,5 +25,6 @@ Sanjay is the co-founder of EV3 Lessons and FLL Tutorials, premier websites for 
 
 In addition, Sanjay has been a participant, coach, judge and referee for FIRST LEGO League. He has won numerous STEM and robotics awards including the Champion's Award at FIRST LEGO League World Festival (top team out of more that 35,000 teams worldwide). He is also the recipient of the Coach award at FIRST Championship, given to the top coach of the year.
 
+Sanjay has also served as a technical editor for a MINDSTORMS-related book.
 
 Websites: [EV3 Lessons](http://www.ev3lessons.com), [FLL Tutorials](http://www.flltutorials.com), [Beyond The Instructions](http://www.beyondtheinstructions.com)
