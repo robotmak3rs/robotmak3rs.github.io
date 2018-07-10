@@ -9,7 +9,7 @@ tags:
 - MINDSTORMS
 - BOOST
 - EV3DEV
-- Educator
+- Coach/Mentor
 
 twitter_text:
 introduction: <b>Delft, Netherlands</b> <br> Innovation Strategist
@@ -25,4 +25,3 @@ Anton is addicted to discovery and robots. Ever curious, ever pushing borders or
 When Anton is not working with kids he builds LEGO MINDSTORMS animals. Their movement, character and behaviour is his greatest source of inspiration. His most famous animals are Saphiro the Blue dragon and Catfish. Elyse Klaidman from Pixar quipped that drawing was more about observation than about moving a pencil. In the same way building and programming LEGO animals helps Anton look at animals and their behaviour in colourful detail.
 
 [YouTube](https://www.youtube.com/channel/UCoNL918PAT8zu2i0OQA4-Cg?view_as=subscriber)
-

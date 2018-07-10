@@ -7,8 +7,10 @@ description:  <b>Selangor, Malaysia</b><br> STEM Trainer, Consultant Tomafuwi Pr
 category: ''
 tags:
 - MINDSTORMS
-- Boost
+- BOOST
 - WeDo
+- Educator
+- Coach/Mentor
 twitter_text:
 introduction: <b>Selangor, Malaysia</b><br> STEM Trainer, Consultant Tomafuwi Productions
 ---
@@ -18,6 +20,6 @@ introduction: <b>Selangor, Malaysia</b><br> STEM Trainer, Consultant Tomafuwi Pr
 ## Bio
 
 
-Ahmad Sahar enjoys building LEGO Mindstorms MOCs for personal recreation. He conducts LEGO Mindstorms courses for kids, organises workshops at LEGO Certified Stores in Malaysia and provides consultation and training for schools participating in First Lego League and World Robot Olympiad. He also actively participates in LEGO Technic Users Malaysia and LEGO Mindstorms EV3 Facebook groups.
+Ahmad Sahar enjoys building LEGO MINDSTORMS MOCs for personal recreation. He conducts LEGO MINDSTORMS courses for kids, organises workshops at LEGO Certified Stores in Malaysia and provides consultation and training for schools participating in FIRST LEGO League and World Robot Olympiad. He also actively participates in LEGO Technic Users Malaysia and LEGO MINDSTORMS EV3 Facebook groups.
 
 [Facebook](https://www.facebook.com/tomafuwi)

@@ -7,7 +7,7 @@ description:  <b>The Netherlands</b> <br> Mechanical Engineer
 category: ''
 tags:
 - MINDSTORMS
-- Boost
+- BOOST
 - WeDo
 twitter_text:
 introduction: <b>The Netherlands</b> <br> Mechanical Engineer

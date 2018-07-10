@@ -7,7 +7,7 @@ description: <b>Torrelavega, Spain</b> <br> STEM Teacher, Editor of HispaBrick M
 category: 'MINDSTORMS Boost WeDo Educator'
 tags:
 - MINDSTORMS
-- Boost
+- BOOST
 - WeDo
 - Educator
 - Editor
@@ -28,4 +28,4 @@ Jetro is one of the editors of HispaBrick Magazine, a free LEGO fan magazine tha
 Websites: [HispaBrick Magazine](http://www.HispaBrickMagazine.com)<br>
 LUG:
 
-![placeholder](http://www.hispabrickmagazine.com/sites/default/files/about_logo.png "hispabrick.com") 
+![placeholder](http://www.hispabrickmagazine.com/sites/default/files/about_logo.png "hispabrick.com")

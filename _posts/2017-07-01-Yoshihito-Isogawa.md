@@ -7,7 +7,7 @@ description: <b>Tokyo, Japan</b> <br> Designer, Lecturer, President of Isogawa S
 category: ''
 tags:
 - MINDSTORMS
-- Boost
+- BOOST
 - WeDo
 - Author
 - Educator

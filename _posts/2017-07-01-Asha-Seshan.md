@@ -11,6 +11,7 @@ tags:
 - Educator
 - Admin
 - Editor
+- Coach/Mentor
 twitter_text:
 introduction: <b>Pittsburgh, Pennsylvania, USA</b> <br> Robotics Judge and Mentor
 ---

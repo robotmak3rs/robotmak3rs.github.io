@@ -7,7 +7,7 @@ description: <b>Montreal, Quebec, Canada</b> <br> Freelance Consultant
 category: ''
 tags:
 - MINDSTORMS
-- Boost
+- BOOST
 - WeDo
 - LUG
 - Ambassador

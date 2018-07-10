@@ -8,6 +8,7 @@ category: 'life'
 tags:
 - MINDSTORMS
 - Educator
+- Coach/Mentor
 twitter_text:
 introduction: <b>Santo André, Brazil</b> <br> Professor, Instituto Mauá de Tecnologia
 ---

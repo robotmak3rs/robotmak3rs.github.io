@@ -7,7 +7,7 @@ description: <b>Delft, The Netherlands</b> <br> Robotics Engineer
 category: ''
 tags:
 - MINDSTORMS
-- Boost
+- BOOST
 - Author
 twitter_text:
 introduction: <b>Delft, The Netherlands</b> <br> Robotics Engineer

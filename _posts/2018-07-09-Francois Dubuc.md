@@ -8,8 +8,9 @@ category: ''
 tags:
 - MINDSTORMS
 - LUG
+- Educator
 twitter_text:
-introduction: <b>Quebec, Canada</b> <br> Game Developer 
+introduction: <b>Quebec, Canada</b> <br> Game Developer
 ---
 
 

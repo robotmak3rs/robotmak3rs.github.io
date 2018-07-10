@@ -7,7 +7,7 @@ description: <b>Greece</b> <br> Founder of blast and blast games, Designer
 category: ''
 tags:
 - MINDSTORMS
-- Boost
+- BOOST
 - WeDo
 - Educator
 - Legend
