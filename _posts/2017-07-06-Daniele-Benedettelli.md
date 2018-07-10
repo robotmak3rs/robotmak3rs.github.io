@@ -21,7 +21,8 @@ introduction: <b>Grosseto, Italy</b> <br> Highschool Electronics Teacher, Freela
 
 
 Daniele Benedettelli is a robotics engineer, known worldwide for his LEGO® MINDSTORMS® robotics creations. His Youtube channel counts almost 6 million views, and his robots has been demonstrated in several events and conferences, shown in TV shows (including RAI, SAT.1, National Geographic) all over the world since 2007.
-From 2006 to 2012 he collaborated with The LEGO Company as consultant and programmer to develop the LEGO MINDSTORMS NXT e EV3 products for educational robotics.
+
+From 2006 to 2012 he collaborated with The LEGO Company as consultant and programmer to develop the LEGO MINDSTORMS NXT and EV3 products for educational robotics.
 
 He wrote three books to teach how to build and program robots: <br>
 • Creating Cool LEGO MINDSTORMS NXT Robots (Apress, 2008) includes JohnNXT, a replica of the robot star from the 1986 movie “Short Circuit”<br>
