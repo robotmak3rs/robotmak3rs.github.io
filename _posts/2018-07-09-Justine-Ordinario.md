@@ -18,6 +18,6 @@ introduction: <b>New Jersey, USA</b> <br> R&D Quality Engineer
 ## Bio
 
 
-Justine rediscovered LEGO with Mindstorms EV3 in 2014 and hasn't looked back since. She builds for recreation and for exploring manufacturing related robotics mechanisms. She volunteers at FIRST LEGO League events at the New Jersey local and state level and has provided tech support for competing teams at FIRST LEGO League World Festivals.
+Justine rediscovered LEGO with MINDSTORMS EV3 in 2014 and hasn't looked back since. She builds for recreation and for exploring manufacturing related robotics mechanisms. She volunteers at FIRST LEGO League events at the New Jersey local and state level and has provided tech support for competing teams at FIRST LEGO League World Festivals.
 
 LUG: GardenSLUG

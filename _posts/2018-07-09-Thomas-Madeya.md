@@ -19,13 +19,12 @@ introduction: <b>Eppingen, Germany</b> <br> Adult Education
 ## Bio
 
 
-In 2006 Thomas got in contact with FIRST LEGO League (FLL) and is hooked since. 
- 
-Starting with LEGO MINDSTORM RCX his team went to NXT and finally EV3. When in 2013 several team members hit the FLL age limit, they decided to switch from competing to coaching other teams by funding the NanoGiants Academy as a NPO.  They also help teacher to get started as FLL coaches and run the FLL competition in Heidelberg, Germany.
+In 2006 Thomas was introduced to FIRST LEGO League (FLL) and has been hooked since then.
 
-Thomas makes robots and programs for workshop and to inspire FLL teams – often limiting himself to the parts of one MINDSTORM Education set 45544, to showcase how much can be achieved with relatively few parts.
+Starting with LEGO MINDSTORM RCX, his team went to NXT and finally EV3. When in 2013 several team members hit the FLL age limit, they decided to switch from competing to coaching other teams by funding the NanoGiants Academy as a NPO.  They also help teachers to get started as FLL coaches and run the FLL competition in Heidelberg, Germany.
 
-Moreover, Thomas volunteers in several roles in FLL region “Central Europe” include being the head referee for the region.
+Thomas creates robots and programs for workshops and to inspire FLL teams – often limiting himself to the parts of one MINDSTORM Education set 45544, to showcase how much can be achieved with relatively few parts.
+
+In addition, Thomas volunteers in several roles in FLL region “Central Europe” include as the Head Referee for the region.
 
 [Website](https://nano-giants.net/en/bots/)
-
