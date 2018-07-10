@@ -7,6 +7,8 @@ description:  <b>Christchurch, New Zealand</b> <br> Escape Room Designer / Stude
 category: ''
 tags:
 - MINDSTORMS
+- Educator
+- LUG
 twitter_text:
 introduction: <b>Christchurch, New Zealand</b> <br> Escape Room Designer / Student
 ---
@@ -20,3 +22,4 @@ Avery and Andrew Dean, a father and son building team, create interactive animat
 
 
 [YouTube](https://tinyurl.com/nzaverydean)
+LUG: [LUG4X2](www.lug4x2.org)

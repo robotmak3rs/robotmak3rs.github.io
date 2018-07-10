@@ -8,6 +8,7 @@ category: ''
 tags:
 - MINDSTORMS
 - EV3Dev
+- Coach/Mentor
 twitter_text:
 introduction: <b>Edmond, Oklahoma, USA</b><br> Freelance Software Developer
 ---

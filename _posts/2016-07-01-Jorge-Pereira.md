@@ -8,6 +8,7 @@ category: ''
 tags:
 - MINDSTORMS
 - EV3Dev
+- LUG
 twitter_text:
 introduction: <b>Lisbon, Portugal</b> <br> Systems Administrator
 ---
@@ -21,3 +22,4 @@ Jorge is an engineer who loves robots, automation and science. He started using 
 
 
 Website: [O Falcão](https://ofalcao.pt/)
+Website: [PLUG(http://www.plug.pt/forum)
