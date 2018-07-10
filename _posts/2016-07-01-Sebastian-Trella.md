@@ -7,6 +7,7 @@ description:  <b>Cologne, Germany</b> <br>  IT Support Engineer
 category: ''
 tags:
 - MINDSTORMS
+- Author
 - Admin
 twitter_text:
 introduction: <b>Cologne, Germany</b> <br>  IT Support Engineer
