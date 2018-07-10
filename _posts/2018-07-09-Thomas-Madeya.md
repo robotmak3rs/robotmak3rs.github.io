@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Francois Dubuc"
+title: "Thomas Madeya"
 date: 2017-07-06 12:22:40
-image: '/assets/img/makers/Frank.jpg'
-description:  <b>Quebec, Canada</b> <br> Game Developper (and more)
+image: '/assets/img/makers/Thomas.jpg'
+description:  <b>Eppingen, Germany</b> <br> Adult Education
 category: ''
 tags:
 - MINDSTORMS
+- Educator
+
 
 twitter_text:
-introduction: <b>Quebec, Canada</b> <br> Game Developper (and more)
+introduction: <b>Eppingen, Germany</b> <br> Adult Education
 ---
 
 
@@ -17,10 +19,13 @@ introduction: <b>Quebec, Canada</b> <br> Game Developper (and more)
 ## Bio
 
 
-Francois Dubuc was born with a keyboard in his hands; he wrote his first game at 9 years old and was published for the first time at 14. He wrote his first commercial software at 15. He started his first software company at 28 and sold it at 38. Since then, Francois left his dark age and solidly felt in love with MINDSTORMS. He’s a robot builder of more than 30 big projects.
+In 2006 Thomas got in contact with FIRST LEGO League (FLL) and is hooked since. 
+ 
+Starting with LEGO MINDSTORM RCX his team went to NXT and finally EV3. When in 2013 several team members hit the FLL age limit, they decided to switch from competing to coaching other teams by funding the NanoGiants Academy as a NPO.  They also help teacher to get started as FLL coaches and run the FLL competition in Heidelberg, Germany.
 
-Today, Francois’s primary focus is having fun developing mobile video games, building robots and teaching robotics in two different schools, starting as early as grade 3 up to highschool students. He’s also the acting President of QueLUG, President of LPA Foundation, Founder at MobeeDream.com, Director in a software company (part time), Owner at MillionPrints.com and business mentor.
+Thomas makes robots and programs for workshop and to inspire FLL teams – often limiting himself to the parts of one MINDSTORM Education set 45544, to showcase how much can be achieved with relatively few parts.
 
-[YouTube](https://www.youtube.com/user/activeMedia55)
+Moreover, Thomas volunteers in several roles in FLL region “Central Europe” include being the head referee for the region.
 
-LUG: [QueLUG](http://www.quelug.org)
+[Website](https://nano-giants.net/en/bots/)
+
