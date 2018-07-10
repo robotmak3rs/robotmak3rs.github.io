@@ -7,7 +7,7 @@ description:  <b>Quebec, Canada</b> <br> Game Developper (and more)
 category: ''
 tags:
 - MINDSTORMS
-
+- LUG
 twitter_text:
 introduction: <b>Quebec, Canada</b> <br> Game Developper (and more)
 ---
