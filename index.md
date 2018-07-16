@@ -77,7 +77,7 @@ a:active {
 </div>
   <div class="column">
 
-    <center><a href="https://www.facebook.com/groups/1047713702069822/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
+    <center><a href="https://www.facebook.com/robotmak3rs/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
     <a href="https://www.facebook.com/robotmak3rs/"><h3 style="text-align: center;">ROBOTMAK3RS</h3></a>
   </div>
   <div class="column">
