@@ -18,6 +18,6 @@ introduction: <b>Quebec, Canada</b><br> Illustrator
 
 Mylène is an illustrator and portrait artist who lives in Québec, Canada. She started using the EV3 for presentations during a book fair Now, she is combining cosplay and MINDSTORMS which gave birth to her fully functional Ghostbusters Proton Pack.
 
-[Website](www.mylenevilleneuve.com)
+[Website](https://mylenevilleneuve.wordpress.com/)
 
 LUG: [QueLUG](www.quelug.org)
