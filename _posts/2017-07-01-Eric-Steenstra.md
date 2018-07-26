@@ -17,15 +17,16 @@ introduction: <b>Duiven, The Netherland</b><br> Consultant
 
 ## Bio
 
-The RCX 1.0 was the first item he has bought on the internet, back in 1999. From that moment on he used programable bricks to move his LEGO Creations. His starting point is creating things, that have not been created before and whatever you want to create with LEGO is possible. He is a specialist in building big structures and models that take a total different way of building. 
- 
-He has shown every year a new BIG creation on LEGO World in the Netherlands and Denmark for more than 10 years with his friend Maryn Boogaarts. 
-They are member of their own LUG, MEGLug together with Gerrit Bronsveld. Where Meg stands for (M)artijn, (E)ric and (G)errit. and refers to MEGA (BiG).
+The RCX 1.0 was the first item Eric bought on the Internet, back in 1999. From that moment on, he has used programable bricks to move his LEGO creations. His starting point is creating things that have not been created before. He believes that you can create anything you want with LEGO. He is a specialist in building big structures and models that require a total different way of building.
 
-In addition, he and Martijn have supported the FLL in the Netherlands for years as the Mindstorms doctor to help teams on competition days with problems and advice on their robots.
+Eric has displayed a new BIG creation at LEGOWorld in the Netherlands and Denmark for more than 10 years with his friend, Martyn Boogaarts.
 
-He himself thinks his LE-GO-Cart is the best MOC he has build.
+They are member of their own LUG, MEGLug together with Gerrit Bronsveld. Where Meg stands for (M)artijn, (E)ric and (G)errit. It also alludes to MEGA (BIG).
+
+In addition, he and Martijn have supported FIRST LEGO League in the Netherlands for years as the "MINDSTORMS doctors". We help teams on competition days with any problems they may face and also advice about their robots.
+
+Eric thinks his LE-GO-Cart is the best MOC he has built.
 
 
-Website: [YouTybe](https://www.youtube.com/user/esrtiece/videos) 
+Website: [YouTybe](https://www.youtube.com/user/esrtiece/videos)
 LUG: MEGLUG
