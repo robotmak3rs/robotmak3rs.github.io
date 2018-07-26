@@ -28,5 +28,5 @@ In addition, he and Martijn have supported FIRST LEGO League in the Netherlands 
 Eric thinks his LE-GO-Cart is the best MOC he has built.
 
 
-Website: [YouTybe](https://www.youtube.com/user/esrtiece/videos)
+Website: [YouTube](https://www.youtube.com/user/esrtiece/videos)
 LUG: MEGLUG
