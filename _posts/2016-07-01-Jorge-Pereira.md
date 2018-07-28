@@ -7,6 +7,7 @@ description:  <b>Lisbon, Portugal</b> <br> Systems Administrator
 category: ''
 tags:
 - MINDSTORMS
+- PoweredUp
 - EV3Dev
 - LUG
 twitter_text:

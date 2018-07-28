@@ -9,6 +9,7 @@ tags:
 - MINDSTORMS
 - BOOST
 - WeDo
+- PoweredUp
 - Educator
 - Coach/Mentor
 twitter_text:

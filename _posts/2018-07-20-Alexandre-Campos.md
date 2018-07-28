@@ -8,6 +8,7 @@ category: ''
 tags:
 - MINDSTORMS
 - LUG
+- Ambassador
 twitter_text:
 introduction: <b>Lisbon, Portugal</b><br> Programmer
 ---

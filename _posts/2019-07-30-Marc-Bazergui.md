@@ -9,6 +9,7 @@ tags:
 - MINDSTORMS
 - BOOST
 - WeDo
+- PoweredUp
 - LUG
 - Ambassador
 - Admin
@@ -26,7 +27,7 @@ Marc-André is part of the LEGO® Ambassador Network (LAN) as the Ambassador and
 
 
 Website: [bazmarc.ca](http://www.Bazmarc.ca)<br>
-LUG: [QueLUG](www.quelug.org) 
+LUG: [QueLUG](www.quelug.org)
 
 
 ![placeholder](https://lh3.googleusercontent.com/-CfC57wVBFaM/Wz2UOGcebuI/AAAAAAADyvs/sGkl0KhJYuEsKmvu6gWsjDqY6js02YecwCEwYBhgL/h240/Screen%2BShot%2B2018-07-04%2Bat%2B11.44.15%2BPM.png "ambassador@robotmak3rs.com")

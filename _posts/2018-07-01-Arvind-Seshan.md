@@ -9,6 +9,7 @@ tags:
 - MINDSTORMS
 - Boost
 - WeDo
+- PoweredUp
 - Educator
 - EV3Dev
 - Editor

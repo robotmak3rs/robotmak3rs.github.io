@@ -9,6 +9,7 @@ tags:
 - MINDSTORMS
 - BOOST
 - WeDo
+- PoweredUp
 twitter_text:
 introduction: <b>The Netherlands</b> <br> Mechanical Engineer
 ---

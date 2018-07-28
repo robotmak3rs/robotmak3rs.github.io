@@ -7,6 +7,7 @@ description:  <b>Hampshire, UK</b><br> Application Development Lead
 category: ''
 tags:
 - MINDSTORMS
+- PoweredUp
 twitter_text:
 introduction: <b>Hampshire, UK</b><br> Application Development lead
 ---
