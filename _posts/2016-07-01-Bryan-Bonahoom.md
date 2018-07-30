@@ -12,7 +12,7 @@ tags:
 - Coach/Mentor
 - LUG
 twitter_text:
-introduction: <<b>Indianapolis, USA</b> <br> Engineer / Event Planning
+introduction: <b>Indianapolis, USA</b> <br> Engineer / Event Planning
 ---
 
 
@@ -22,5 +22,5 @@ introduction: <<b>Indianapolis, USA</b> <br> Engineer / Event Planning
 
 Bryan has been deeply involved with MINDSTORMS since 2003.  He currently coordinates all of the Brickworld fan events and actively designs GBC modules while helping operate robotics tournaments.  While Bryan has no recent projects on his own, he works with Steve Hassenplug and the Super Robo Rally game and Bryan does have a few projects quietly started and on the back burner until he has time to do them right.
 
-Website: [Team Hassenplug](http://www.teamhassenplug.org/)
+Website: [Team Hassenplug](http://www.teamhassenplug.org/) <br>
 LUG: [IndyLUG](http://indylug.org/)
