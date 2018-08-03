@@ -17,7 +17,7 @@ introduction: <b>Lagos, Nigeria</b> <br> STEM Educator, Robot Designer and Sales
 
 ## Bio
 
-Emmanuel is a LEGO MINDSTROMS robotics educator with a profound knowledge and vast experience in the field of robotics. He enjoys teaching robotics to kids and provides consultation, training and mentoring  for schools participating in the First LEGO league (FLL) and World Robot Olympiad (WRO) across Nigeria. Recently he joined Cogmation and helps them creates LEGO MINDSTORMS  robot models, courses and curriculums for the use in the virtual robotic toolkit stimulator (VRT).
+Emmanuel is a young LEGO MINDSTROMS robotics educator in Nigeria. He enjoys teaching robotics to kids and provides consultation, training, and mentoring at schools participating in the FIRST LEGO league (FLL) and World Robot Olympiad (WRO) all across Nigeria. Recently, he joined Cogmation and helps them create LEGO MINDSTORMS  robot models and curriculums for use in their virtual robotic toolkit stimulator (VRT).
 
 [Website](https://Titanixbuilders.com/) <br>
 [FaceBook](https://www.facebook.com/titanix.robotic.builders/)
