@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yoshihito Isogawa"
-date: 2018-07-02 12:59:40
+date: 2019-07-02 12:59:40
 image: '/assets/img/makers/isogawa.jpg'
 description: <b>Tokyo, Japan</b> <br> Designer, Lecturer, President of Isogawa Studio
 category: ''

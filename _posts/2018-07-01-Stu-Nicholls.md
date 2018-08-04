@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Stu Nicholls"
-date: 2018-07-04 12:17:40
+date: 2019-07-04 12:17:40
 image: '/assets/img/makers/Stu.jpg'
 description: <b>Gloucester, United Kingdom</b> <br> Freelance web designer
 category: 'MINDSTORMS Boost WeDo Educator'
 tags:
 - MINDSTORMS
 - BOOST
-- LUG
 - Author
 twitter_text:
 introduction: <b>Gloucester, United Kingdom</b> <br> Freelance web designer
@@ -24,5 +23,4 @@ Stuart is known in the MINDSTORMS community for his exceptionally built bi-peds.
 
 His models and code are freely available to everyone from his website.
 
-Websites: [Stu Nicholls](http://www.stunicholls.com)<br>
-LUG:
+Website: [Stu Nicholls](http://www.stunicholls.com)<br>
