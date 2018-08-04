@@ -24,4 +24,4 @@ Today, Francois’s primary focus is having fun developing mobile video games, b
 
 [YouTube](https://www.youtube.com/user/activeMedia55)
 
-LUG: [QueLUG](http://www.quelug.org)
+LUG: [QueLUG](http://www.quelug.org/modules/newbb/)

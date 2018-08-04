@@ -20,4 +20,4 @@ Mylène is an illustrator and portrait artist who lives in Québec, Canada. She 
 
 [Website](https://mylenevilleneuve.wordpress.com/)
 
-LUG: [QueLUG](www.quelug.org)
+LUG: [QueLUG](http://www.quelug.org/modules/newbb/)

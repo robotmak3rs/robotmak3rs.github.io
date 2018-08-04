@@ -27,7 +27,7 @@ Marc-André is part of the LEGO® Ambassador Network (LAN) as the Ambassador and
 
 
 Website: [bazmarc.ca](http://www.Bazmarc.ca)<br>
-LUG: [QueLUG](http://www.quelug.org)
+LUG: [QueLUG](http://www.quelug.org/modules/newbb/)
 
 
 ![placeholder](https://4.bp.blogspot.com/-E0Ebq4QrNKw/W2XU5wJDAhI/AAAAAAAD068/XCleL__snJgueh9UFWvqSI2Im9OKZQlvACLcBGAs/s1600/robotmak3rs%2Binvite%2Bcard.png "ambassador@robotmak3rs.com")
