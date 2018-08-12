@@ -2,7 +2,7 @@
 layout: post
 title: "Ken'ichi Tohya"
 date: 2019-07-02 12:59:40
-image: '/assets/img/makers/kenichi.jpg'
+image: '/assets/img/makers/Kenichi.jpg'
 description: <b>Tokyo, Japan</b> <br> Engineer
 category: ''
 tags:
