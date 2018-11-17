@@ -9,7 +9,9 @@ tags:
 - MINDSTORMS
 - BOOST
 - EV3DEV
-- LUG
+- Author
+- LeJOS
+
 twitter_text:
 introduction: <b>Rosemount, MN USA</b> <br> Computer Engineer. Apple
 ---
@@ -28,7 +30,8 @@ Oracle doing post-silicon validation for
 SPARC processor servers. Most recently
 Kevin joined Apple Corporation as a
 validation engineer, writing tests in Arm
-assembly language.
+assembly language. <br>
+
 Kevin started playing with Mindstorms when
 they were first introduced. He’s co-authored
 three books with building instructions for a
@@ -51,7 +54,9 @@ cables, and rubber bands in LDraw models. Kevin won the James
 Jessiman award for his efforts. Kevin was a co-author in the book
 Software Power Tools, that described how the Draw family of tools work,
 and how to use them to make building instructions.
+
 <br>
+
 Website: [brickshelf](http://www.brickshelf.com/cgi-bin/gallery.cgi?m=kclague)
 
 
