@@ -53,9 +53,7 @@ wrote LSynth to allow for the use of bendable parts like hoses, electric
 cables, and rubber bands in LDraw models. Kevin won the James
 Jessiman award for his efforts. Kevin was a co-author in the book
 Software Power Tools, that described how the Draw family of tools work,
-and how to use them to make building instructions.
-
-<br>
+and how to use them to make building instructions.<br>
 
 Website: [brickshelf](http://www.brickshelf.com/cgi-bin/gallery.cgi?m=kclague)
 
