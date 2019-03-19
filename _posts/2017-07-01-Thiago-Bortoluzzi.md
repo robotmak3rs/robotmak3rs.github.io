@@ -8,6 +8,9 @@ category: ''
 tags:
 - MINDSTORMS
 - WeDo
+- Educator
+- Coach/Mentor
+- Editor
 - LUG
 twitter_text:
 introduction: <b>Brusque, Brazil</b> <br> Professor of Technology Education
