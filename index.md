@@ -102,7 +102,7 @@ a:active {
 </div>
 
 
-<div style="padding: 20px 30px 20px 30px;"><h2 style="text-align: center;"> Meet the Members of the ROBOTMAK3RS Community</h2></div>
+<div style="padding: 30px 30px 30px 30px;"><h2 style="text-align: center;"> Meet the Members of the ROBOTMAK3RS Community</h2></div>
 
 
 
