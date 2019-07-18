@@ -76,6 +76,7 @@ a:active {
 <div class="column">
 
 </div>
+<div style="align: center">
   <div class="column">
   <center><a href="https://www.facebook.com/robotmak3rs/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
   <a href="https://www.facebook.com/robotmak3rs/"><h3 style="text-align: center;">ROBOTMAK3RS</h3></a>
@@ -101,6 +102,8 @@ a:active {
   <a href="https://www.facebook.com/groups/1901917436776385/"><h3 style="text-align: center;">PoweredUp</h3></a>
   </div>
 </div>
+</div>
+
 
 
 <div style="padding: 30px 30px 30px 30px;"><h2 style="text-align: center;"> Meet the Members of the ROBOTMAK3RS Community</h2></div>
