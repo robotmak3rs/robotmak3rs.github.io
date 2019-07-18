@@ -17,7 +17,7 @@ layout: main
 
 .column {
     float: left;
-    width: 16.66666667%;
+    width: 10.66666667%;
     padding: 5px 0px 5px 0px;
 }
 
@@ -68,7 +68,7 @@ a:active {
 }
 </style>
 <div style="margin-left:20%;margin-right:20%">
-<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE the passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
+<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo, BOOST and SPIKE Prime) to MAKE robots, SHARE the passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.
 </h3>
 </div>
 <div class="row">
