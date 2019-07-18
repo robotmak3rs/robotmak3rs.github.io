@@ -93,7 +93,7 @@ a:active {
   <a href="https://www.facebook.com/groups/BOOSTcommunity/"><h3 style="text-align: center;">BOOST</h3></a>
   </div>
   <div class="column">
-  <center><a href="https://www.facebook.com/groups/SPIKEcommunity/"><img style="width:60%" src="/assets/img/Spike-fb.png"></a></center>
+  <center><a href="https://www.facebook.com/groups/SPIKEcommunity/"><img style="width:60%" src="/assets/img/Spike-fb.jpg"></a></center>
   <a href="https://www.facebook.com/groups/SPIKEcommunity/"><h3 style="text-align: center;">SPIKE Prime</h3></a>
   </div>
   <div class="column">
