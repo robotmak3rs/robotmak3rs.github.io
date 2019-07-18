@@ -17,7 +17,7 @@ layout: main
 
 .column {
     float: left;
-    width: 20.66666667%;
+    width: 18.66666667%;
     padding: 5px 0px 5px 0px;
 }
 
@@ -96,8 +96,8 @@ a:active {
   <a href="https://www.facebook.com/groups/BOOSTcommunity/"><h3 style="text-align: center;">BOOST</h3></a>
   </div>
   <div class="column">
-  <center><a href="https://www.facebook.com/groups/1901917436776385/"><img style="width:60%" src="/assets/img/SPoweredUp-fb.jpg"></a></center>
-  <a href="https://www.facebook.com/groups/1901917436776385/"><h3 style="text-align: center;">SPIKE Prime</h3></a>
+  <center><a href="https://www.facebook.com/groups/1901917436776385/"><img style="width:60%" src="/assets/img/PoweredUp-fb.jpg"></a></center>
+  <a href="https://www.facebook.com/groups/1901917436776385/"><h3 style="text-align: center;">PoweredUp</h3></a>
   </div>
 
   <div class="column">
