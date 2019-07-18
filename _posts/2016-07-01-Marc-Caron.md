@@ -7,6 +7,7 @@ description:  <b>Canada</b> <br> STEM Trainer at BB.ca
 category: ''
 tags:
 - MINDSTORMS
+- SPIKE Prime
 - WeDo
 - Educator
 twitter_text:

@@ -7,6 +7,7 @@ description: <b>Montreal, Quebec, Canada</b> <br> Freelance Consultant
 category: ''
 tags:
 - MINDSTORMS
+- SPIKE Prime
 - BOOST
 - WeDo
 - PoweredUp

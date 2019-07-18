@@ -7,6 +7,7 @@ description: <b>Bronx, NY</b> <br> Toy Designer
 category: ''
 tags:
 - MINDSTORMS
+- SPIKE Prime
 twitter_text:
 introduction: <b>Bronx, NY</b> <br> Toy Designer
 ---
@@ -19,3 +20,4 @@ Lee uses his bricks as a means of honest self expression. His passion for LEGO, 
 
 
 Flickr: [1brick](http://www.flickr.com/1brick)
+
