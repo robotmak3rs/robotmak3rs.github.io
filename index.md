@@ -17,8 +17,8 @@ layout: main
 
 .column {
     float: left;
-    width: 18.66666667%;
-    padding: 5px 0px 5px 0px;
+    width: 16.66666667%;
+    padding: 3px 0px 3px 0px;
 }
 
 .row:after {
@@ -99,11 +99,6 @@ a:active {
   <center><a href="https://www.facebook.com/groups/1901917436776385/"><img style="width:60%" src="/assets/img/PoweredUp-fb.jpg"></a></center>
   <a href="https://www.facebook.com/groups/1901917436776385/"><h3 style="text-align: center;">PoweredUp</h3></a>
   </div>
-
-  <div class="column">
-
-  </div>
-
 </div>
 
 
