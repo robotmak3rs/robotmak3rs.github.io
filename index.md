@@ -17,7 +17,7 @@ layout: main
 
 .column {
     float: left;
-    width: 15%;
+    width: 14.5%;
     padding: 6px 0px 6px 0px;
 }
 
