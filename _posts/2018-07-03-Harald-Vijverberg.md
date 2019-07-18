@@ -3,12 +3,11 @@ layout: post
 title: "Harald Vijverberg"
 date: 2018-07-02 12:24:40
 image: '/assets/img/makers/Harald.jpg'
-description: <b>Delft, The Netherlands</b> <br> E/I technician offshore
+description: <b>Rotterdam, The Netherlands</b> <br> E/I technician offshore
 category: ''
 tags:
 
 - MINDSTORMS
-- SPIKE Prime
 - WeDo
 - Duplo
 - Educator
@@ -17,7 +16,7 @@ tags:
 
 
 twitter_text:
-introduction: <b>Delft, The Netherlands</b> <br> E/I technician offshore
+introduction: <b>Rotterdam, The Netherlands</b> <br> E/I technician offshore
 ---
 
 

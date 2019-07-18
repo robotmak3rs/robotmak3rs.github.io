@@ -17,7 +17,7 @@ layout: main
 
 .column {
     float: left;
-    width: 18.66666667%;
+    width: 20.66666667%;
     padding: 5px 0px 5px 0px;
 }
 
@@ -76,13 +76,16 @@ a:active {
 
 </div>
   <div class="column">
-
-    <center><a href="https://www.facebook.com/robotmak3rs/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
-    <a href="https://www.facebook.com/robotmak3rs/"><h3 style="text-align: center;">ROBOTMAK3RS</h3></a>
+  <center><a href="https://www.facebook.com/robotmak3rs/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
+  <a href="https://www.facebook.com/robotmak3rs/"><h3 style="text-align: center;">ROBOTMAK3RS</h3></a>
   </div>
   <div class="column">
   <center><a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:60%" src="/assets/img/EV3-fb.png"></a></center>
   <a href="https://www.facebook.com/groups/legomindstorms/"><h3 style="text-align: center;">MINDSTORMS EV3</h3></a>
+  </div>
+  <div class="column">
+  <center><a href="https://www.facebook.com/groups/SPIKEcommunity/"><img style="width:60%" src="/assets/img/Spike-fb.jpg"></a></center>
+  <a href="https://www.facebook.com/groups/SPIKEcommunity/"><h3 style="text-align: center;">SPIKE Prime</h3></a>
   </div>
   <div class="column">
   <center><a href="https://www.facebook.com/groups/letsdowedo/about/"><img style="width:60%" src="/assets/img/WeDo-fb.png"></a></center>
@@ -93,9 +96,10 @@ a:active {
   <a href="https://www.facebook.com/groups/BOOSTcommunity/"><h3 style="text-align: center;">BOOST</h3></a>
   </div>
   <div class="column">
-  <center><a href="https://www.facebook.com/groups/SPIKEcommunity/"><img style="width:60%" src="/assets/img/Spike-fb.jpg"></a></center>
-  <a href="https://www.facebook.com/groups/SPIKEcommunity/"><h3 style="text-align: center;">SPIKE Prime</h3></a>
+  <center><a href="https://www.facebook.com/groups/1901917436776385/"><img style="width:60%" src="/assets/img/SPoweredUp-fb.jpg"></a></center>
+  <a href="https://www.facebook.com/groups/1901917436776385/"><h3 style="text-align: center;">SPIKE Prime</h3></a>
   </div>
+
   <div class="column">
 
   </div>
