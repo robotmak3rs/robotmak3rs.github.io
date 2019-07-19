@@ -68,7 +68,7 @@ a:active {
 }
 </style>
 <div style="margin-left:20%;margin-right:20%">
-<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo, BOOST and SPIKE Prime) to MAKE robots, SHARE the passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO.                        
+<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, SPIKE Prime, WeDo, BOOST and PoweredUp) to MAKE robots, SHARE the passion and INSPIRE generations to come! Showcasing interest in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO. 
 
 </h3>
 </div>
@@ -107,7 +107,7 @@ a:active {
 
 
 
-<div style="padding: 30px 20px 30px 20px;"><h2 style="text-align: center;"> Meet the Members of the ROBOTMAK3RS Community</h2></div>
+<div style="padding: 20px 20px 20px 20px;"><h2 style="text-align: center;"> Meet the Members of the ROBOTMAK3RS Community</h2></div>
 
 
 
