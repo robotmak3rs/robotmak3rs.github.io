@@ -11,14 +11,18 @@ permalink: /about/
 ### [Recognized LEGO Online Community of Robot Experts]
 
 
-We are robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science, Technology, Engineering, Arts and Mathematics via the joys of "playing" with LEGO.
+We are robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, SPIKE Prime, WeDo, BOOST and PoweredUp) to MAKE robots, SHARE the passion and INSPIRE generations to come! Showcasing interest in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO. 
 
 
-The <a href="https://www.facebook.com/groups/Robotmak3rsRLOC/">ROBOTMAK3RS</a> Facebook group is by invitation only and acts as the mother ship of the 3 well known communities;
+The <a href="https://www.facebook.com/groups/Robotmak3rsRLOC/">ROBOTMAK3RS</a> Facebook group is by invitation only and acts as the mother ship of the 5 well known communities;
 
 <a href="https://www.facebook.com/groups/legomindstorms/">facebook.com/groups/legomindstorms/</a><br>
+<a href="https://www.facebook.com/groups/SPIKEcommunity/">facebook.com/groups/SPIKEcommunity/</a><br>
 <a href="https://www.facebook.com/groups/letsdowedo/">facebook.com/groups/letsdowedo/</a><br>
 <a href="https://www.facebook.com/groups/BOOSTcommunity/">facebook.com/groups/boostcommunity/</a><br>
+<a href="https://www.facebook.com/groups/1901917436776385/">facebook.com/groups/ powered up /</a><br>
+
+
 
 #### We encourage you to use any of these hashtags 
     #ROBOTMAK3RS
@@ -27,7 +31,11 @@ The <a href="https://www.facebook.com/groups/Robotmak3rsRLOC/">ROBOTMAK3RS</a> F
 	#MINDSTORMS
 	#BOOSTmagic 
 	#letsdoWeDo
+	#LEGOconfidence
+	#SPIKEprime
 
-<em>We are currently not accepting new members as we are still in the setting up phase.</em>
-Meanwhile, please use the Contact form in the menu if you would like to reach out to us.
+<em>The best way to join our group is via networking, get to know us and make sure we get to know you by MAKING and SHARING your robots and INSPIRING others in the community</em>  
+In the meantime, We invite you to LIKE our Facebook Page <a href="https://www.facebook.com/robotmak3rs/">ROBOTMAK3RS</a> or use the Contact form via the menu if you would like to reach out to the ROBOTMAK3RS RLOC ambassador.
+
+
 
