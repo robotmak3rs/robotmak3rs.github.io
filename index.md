@@ -17,8 +17,8 @@ layout: main
 
 .column {
   float: left; 
-   \\width: 16%;
-padding: 5px 0px 4px 0px; 
+   width: 20%;
+padding: 10px 0px 0px 10px; 
 }
 
 .row:after {
