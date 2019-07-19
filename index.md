@@ -16,7 +16,7 @@ layout: main
 }
 
 .column {
-    float: center;
+  <!--  float: left; -->
     width: 13.6666667%;
     padding: 5px 0px 5px 0px;
 }
@@ -76,7 +76,7 @@ a:active {
 <div class="column">
 
 </div>
-<div style="align: center">
+
   <div class="column">
   <center><a href="https://www.facebook.com/robotmak3rs/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
   <a href="https://www.facebook.com/robotmak3rs/"><h3 style="text-align: center;">ROBOTMAK3RS</h3></a>
@@ -101,7 +101,7 @@ a:active {
   <center><a href="https://www.facebook.com/groups/1901917436776385/"><img style="width:60%" src="/assets/img/PoweredUp-fb.jpg"></a></center>
   <a href="https://www.facebook.com/groups/1901917436776385/"><h3 style="text-align: center;">PoweredUp</h3></a>
   </div>
-</div>
+
 </div>
 
 
