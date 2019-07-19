@@ -18,7 +18,7 @@ layout: main
 .column {
   float: left; 
    width: 15%;
-padding: 4px 0px 4px 0px; 
+//padding: 4px 0px 4px 0px; 
 }
 
 .row:after {
@@ -73,11 +73,12 @@ a:active {
 </h3>
 </div>
 <div class="row">
-<div class="column">
 
-</div>
+  <!--<div class="column">
 
-  <div class="column">
+</div>-->
+
+  <div class="column" style="margin: 0 0;">
   <center><a href="https://www.facebook.com/robotmak3rs/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
   <a href="https://www.facebook.com/robotmak3rs/"><h3 style="text-align: center;">ROBOTMAK3RS</h3></a>
   </div>
