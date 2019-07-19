@@ -17,7 +17,7 @@ layout: main
 
 .column {
   float: left; 
-   width: 15.33333%;
+   width: 15.6666667%;
 //padding: 4px 0px 4px 0px; 
 }
 
@@ -107,7 +107,7 @@ a:active {
 
 
 
-<div style="padding: 30px 30px 30px 30px;"><h2 style="text-align: center;"> Meet the Members of the ROBOTMAK3RS Community</h2></div>
+<div style="padding: 30px 20px 30px 20px;"><h2 style="text-align: center;"> Meet the Members of the ROBOTMAK3RS Community</h2></div>
 
 
 
