@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Philippe "Philo" Hurbain"
+title: "Philippe 'Philo' Hurbain"
 date: 2018-07-03 12:24:40
 image: '/assets/img/makers/Philo.jpg'
 description: <b>Paris, France</b> <br> Retired electronics engineer
