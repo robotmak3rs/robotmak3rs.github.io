@@ -80,7 +80,7 @@ a:active {
 
   <div class="column" style="margin: 0 0;">
   <center><a href="http://www.thenxtstep.com/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
-  <a href="http://www.thenxtstep.com/"><h3 style="text-align: center;"Our blog</h3></a>
+  <a href="http://www.thenxtstep.com/"><h3 style="text-align: center;">Our blog</h3></a>
   </div>
   <div class="column">
   <center><a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:60%" src="/assets/img/EV3-fb.png"></a></center>
