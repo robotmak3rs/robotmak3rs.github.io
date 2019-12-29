@@ -79,10 +79,6 @@ a:active {
 </div>-->
 
   <div class="column" style="margin: 0 0;">
-  <center><a href="http://www.thenxtstep.com/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
-  <a href="http://www.thenxtstep.com/"><h3 style="text-align: center;">Our blog</h3></a>
-  </div>
-  <div class="column">
   <center><a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:60%" src="/assets/img/EV3-fb.png"></a></center>
   <a href="https://www.facebook.com/groups/legomindstorms/"><h3 style="text-align: center;">MINDSTORMS</h3></a>
   </div>
@@ -102,7 +98,10 @@ a:active {
   <center><a href="https://www.facebook.com/groups/1901917436776385/"><img style="width:60%" src="/assets/img/PoweredUp-fb.jpg"></a></center>
   <a href="https://www.facebook.com/groups/1901917436776385/"><h3 style="text-align: center;">PoweredUp</h3></a>
   </div>
-
+   <div class="column">
+  <center><a href="http://www.thenxtstep.com/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
+  <a href="http://www.thenxtstep.com/"><h3 style="text-align: center;">Our blog</h3></a>
+	</div>
 </div>
 
 
