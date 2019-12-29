@@ -79,12 +79,12 @@ a:active {
 </div>-->
 
   <div class="column" style="margin: 0 0;">
-  <center><a href="https://www.facebook.com/robotmak3rs/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
-  <a href="https://www.facebook.com/robotmak3rs/"><h3 style="text-align: center;">ROBOTMAK3RS</h3></a>
+  <center><a href="http://www.thenxtstep.com/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
+  <a href="http://www.thenxtstep.com/"><h3 style="text-align: center;"Our blog</h3></a>
   </div>
   <div class="column">
   <center><a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:60%" src="/assets/img/EV3-fb.png"></a></center>
-  <a href="https://www.facebook.com/groups/legomindstorms/"><h3 style="text-align: center;">MINDSTORMS EV3</h3></a>
+  <a href="https://www.facebook.com/groups/legomindstorms/"><h3 style="text-align: center;">MINDSTORMS</h3></a>
   </div>
   <div class="column">
   <center><a href="https://www.facebook.com/groups/SPIKEcommunity/"><img style="width:60%" src="/assets/img/Spike-fb.jpg"></a></center>
