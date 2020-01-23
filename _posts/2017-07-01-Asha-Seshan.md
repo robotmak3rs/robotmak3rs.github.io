@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asha Seshan"
-date: 2018-07-01 12:59:40
+date: 2000-07-01 12:59:40
 image: '/assets/img/makers/Asha.jpg'
 description: <b>Pittsburgh, Pennsylvania, USA</b> <br> Robotics Judge and Mentor
 category: ''
