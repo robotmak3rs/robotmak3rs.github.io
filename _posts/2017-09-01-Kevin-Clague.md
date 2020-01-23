@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kevin Clague"
-date: 2019-07-02 12:59:40
+date: 2016-07-02 12:59:40
 image: '/assets/img/makers/clague_bio.JPG'
 description: <b>Rosemount, MN USA</b> <br> Computer Engineer. Apple
 category: ''
