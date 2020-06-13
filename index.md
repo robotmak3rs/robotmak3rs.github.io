@@ -18,7 +18,7 @@ layout: main
 .column {
   float: left; 
    width: 16.6666667%;
-padding: 10px 0px 0px 10px; 
+padding: 5px 0px 0px 5px; 
 }
 
 .row:after {
@@ -68,7 +68,7 @@ a:active {
 }
 </style>
 <div style="margin-left:20%;margin-right:20%">
-<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, SPIKE Prime, WeDo, BOOST and PoweredUp) to MAKE robots, SHARE the passion and INSPIRE generations to come! Showcasing interest in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO. 
+<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms MINDSTORMS Legacy & Robot Inventor, SPIKE Prime, WeDo, BOOST and PoweredUp) to MAKE robots, SHARE the passion and INSPIRE generations to come! Showcasing interest in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO. 
 
 </h3>
 </div>
@@ -83,7 +83,7 @@ a:active {
   <a href="https://www.facebook.com/groups/mindstormsrobotinventor/"><h3 style="text-align: center;">MINDSTORMS LEGACY</h3></a>
   </div>
   <div class="column">
-  <center><a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:60%" src="/assets/img/EV3-fb.jpg"></a></center>
+  <center><a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:60%" src="/assets/img/EV3-fb.png"></a></center>
   <a href="https://www.facebook.com/groups/legomindstorms/"><h3 style="text-align: center;">MINDSTORMS 51515</h3></a>
   </div>
   <div class="column">
