@@ -67,7 +67,7 @@ a:active {
     text-decoration: none;
 }
 </style>
-<div style="margin-left:20%;margin-right:20%">
+<div style="margin-left:15%;margin-right:15%">
 <h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS Legacy & Robot Inventor, SPIKE Prime, WeDo, BOOST and PoweredUp) to MAKE robots, SHARE the passion and INSPIRE generations to come! Showcasing interest in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO. 
 
 </h3>
@@ -84,7 +84,7 @@ a:active {
   </div>
   <div class="column">
   <center><a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:50%" src="/assets/img/EV3-fb.png"></a></center>
-  <a href="https://www.facebook.com/groups/legomindstorms/"><h3 style="text-align: center;">MINDSTORMS EV3 NXT RCX</h3></a>
+  <a href="https://www.facebook.com/groups/legomindstorms/"><h3 style="text-align: center;">MINDSTORMS Legacy</h3></a>
   </div>
   <div class="column">
   <center><a href="https://www.facebook.com/groups/SPIKEcommunity/"><img style="width:50%" src="/assets/img/Spike-fb.jpg"></a></center>
