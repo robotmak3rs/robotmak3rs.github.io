@@ -68,7 +68,7 @@ a:active {
 }
 </style>
 <div style="margin-left:20%;margin-right:20%">
-<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms MINDSTORMS Legacy & Robot Inventor, SPIKE Prime, WeDo, BOOST and PoweredUp) to MAKE robots, SHARE the passion and INSPIRE generations to come! Showcasing interest in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO. 
+<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS Legacy & Robot Inventor, SPIKE Prime, WeDo, BOOST and PoweredUp) to MAKE robots, SHARE the passion and INSPIRE generations to come! Showcasing interest in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO. 
 
 </h3>
 </div>
@@ -79,31 +79,31 @@ a:active {
 </div>-->
 
   <div class="column" style="margin: 0 0;">
-  <center><a href="https://www.facebook.com/groups/mindstormsrobotinventor/"><img style="width:60%" src="/assets/img/LMS-fb.png"></a></center>
-  <a href="https://www.facebook.com/groups/mindstormsrobotinventor/"><h3 style="text-align: center;">MINDSTORMS LEGACY</h3></a>
+  <center><a href="https://www.facebook.com/groups/mindstormsrobotinventor/"><img style="width:50%" src="/assets/img/LMS-fb.png"></a></center>
+  <a href="https://www.facebook.com/groups/mindstormsrobotinventor/"><h3 style="text-align: center;">MINDSTORMS 51515</h3></a>
   </div>
   <div class="column">
-  <center><a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:60%" src="/assets/img/EV3-fb.png"></a></center>
-  <a href="https://www.facebook.com/groups/legomindstorms/"><h3 style="text-align: center;">MINDSTORMS 51515</h3></a>
+  <center><a href="https://www.facebook.com/groups/legomindstorms/"><img style="width:50%" src="/assets/img/EV3-fb.png"></a></center>
+  <a href="https://www.facebook.com/groups/legomindstorms/"><h3 style="text-align: center;">MINDSTORMS EV3 NXT RCX</h3></a>
   </div>
   <div class="column">
-  <center><a href="https://www.facebook.com/groups/SPIKEcommunity/"><img style="width:60%" src="/assets/img/Spike-fb.jpg"></a></center>
+  <center><a href="https://www.facebook.com/groups/SPIKEcommunity/"><img style="width:50%" src="/assets/img/Spike-fb.jpg"></a></center>
   <a href="https://www.facebook.com/groups/SPIKEcommunity/"><h3 style="text-align: center;">SPIKE Prime</h3></a>
   </div>
   <div class="column">
-  <center><a href="https://www.facebook.com/groups/letsdowedo/about/"><img style="width:60%" src="/assets/img/WeDo-fb.png"></a></center>
+  <center><a href="https://www.facebook.com/groups/letsdowedo/about/"><img style="width:50%" src="/assets/img/WeDo-fb.png"></a></center>
   <a href="https://www.facebook.com/groups/letsdowedo/about/"><h3 style="text-align: center;">WeDo</h3></a>
   </div>
   <div class="column">
-  <center><a href="https://www.facebook.com/groups/BOOSTcommunity/"><img style="width:60%" src="/assets/img/BOOST-fb.png"></a></center>
+  <center><a href="https://www.facebook.com/groups/BOOSTcommunity/"><img style="width:50%" src="/assets/img/BOOST-fb.png"></a></center>
   <a href="https://www.facebook.com/groups/BOOSTcommunity/"><h3 style="text-align: center;">BOOST</h3></a>
   </div>
   <div class="column">
-  <center><a href="https://www.facebook.com/groups/1901917436776385/"><img style="width:60%" src="/assets/img/PoweredUp-fb.jpg"></a></center>
+  <center><a href="https://www.facebook.com/groups/1901917436776385/"><img style="width:50%" src="/assets/img/PoweredUp-fb.jpg"></a></center>
   <a href="https://www.facebook.com/groups/1901917436776385/"><h3 style="text-align: center;">PoweredUp</h3></a>
   </div>
    <div class="column">
-  <center><a href="http://www.thenxtstep.com/"><img style="width:60%" src="/assets/img/rm3-fb.png"></a></center>
+  <center><a href="http://www.thenxtstep.com/"><img style="width:50%" src="/assets/img/rm3-fb.png"></a></center>
   <a href="http://www.thenxtstep.com/"><h3 style="text-align: center;">Our blog</h3></a>
 	</div>
 </div>
