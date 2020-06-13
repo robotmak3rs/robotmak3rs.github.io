@@ -22,7 +22,7 @@ introduction: <b>Eindhoven, The Netherlands</b> <br> Phd Candidate in Control Sy
 ## Bio
 
 
-As a PhD Candidate, Nard’s main activity is thinking of new algorithms to make machines move with more accuracy than the width of a human hair. In his free time, he likes to go back to the mechanical basics by building all sorts of LEGO creations. He was introduced to the magical world of LEGO by his girlfriend Anika, which is also part of the ROBOTMAK3RS community. Together they travel to all type of events to show their newest LEGO creations.
+As a PhD Candidate, Nard’s main activity is thinking of new algorithms to make machines move with more accuracy than the width of a human hair. In his free time, he likes to go back to the mechanical basics by building all sorts of LEGO creations. He was introduced to the magical world of LEGO by his girlfriend Anika, who is also part of the ROBOTMAK3RS community. Together they travel to all types of events to show their newest LEGO creations.
 
 Websites: [Vuurzoon](https://www.youtube.com/user/Vuurzoon)
 
