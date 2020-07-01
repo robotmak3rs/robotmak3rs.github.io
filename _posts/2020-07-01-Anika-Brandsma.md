@@ -10,6 +10,7 @@ tags:
 - BOOST
 - WeDo
 - PoweredUp
+- SPIKE Prime
 twitter_text:
 introduction: <b>The Netherlands</b> <br> Mechanical Engineer
 ---
