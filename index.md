@@ -17,7 +17,7 @@ layout: main
 
 .column {
   float: left; 
-   width: 16.6666667%;
+   width: 14.2857142857%;
 padding: 5px 0px 0px 5px; 
 }
 
@@ -78,7 +78,7 @@ a:active {
 
 </div>-->
 
-  <div class="column" style="margin: 0 0;">
+  <div class="column" >
   <center><a href="https://www.facebook.com/groups/mindstormsrobotinventor/"><img style="width:50%" src="/assets/img/LMS-fb.png"></a></center>
   <a href="https://www.facebook.com/groups/mindstormsrobotinventor/"><h3 style="text-align: center;">MINDSTORMS 51515</h3></a>
   </div>
