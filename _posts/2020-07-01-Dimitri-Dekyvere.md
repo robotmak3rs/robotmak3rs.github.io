@@ -2,7 +2,7 @@
 layout: post
 title: "Dimitri 'Dimi' Dekyvere"
 date: 2020-07-01 09:00:00
-image: '/assets/img/makers/Dimitri.jpg'
+image: '/assets/img/makers/Dimi.jpg'
 description:  <b>Kortrijk, Belgium</b> <br> Professor
 category: ''
 tags:
@@ -29,5 +29,6 @@ One of his biggest projects was the design of a fully automated LEGO EV3 robot p
 
 If you like a challenge, the world record "Largest parade of LEGO Mindstorms robots" is with 215 EV3 robots still associated with him.
 
+Note: Shown here with his supporting wife, Griet
 
 [Website](https://legostudiovives.be/bouwideeen/)
