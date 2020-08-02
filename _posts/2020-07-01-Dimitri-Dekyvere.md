@@ -31,5 +31,4 @@ If you like a challenge, the world record "Largest parade of LEGO Mindstorms rob
 
 Note: Shown here with his supporting wife, Griet
 
-[Website](https://legostudiovives.be/bouwideeen/)
-[Youtube](https://www.youtube.com/user/DimitriDekyvere)
+[Website](https://legostudiovives.be/bouwideeen/), [Youtube](https://www.youtube.com/user/DimitriDekyvere)
