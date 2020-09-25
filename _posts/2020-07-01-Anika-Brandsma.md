@@ -28,4 +28,4 @@ Today Anika acts as Ambassador or the ROBOTMAK3RS RLOC and reports all of it's a
 
 [Facebook](https://www.facebook.com/Vuurzoon/), [YouTube](https://www.youtube.com/Vuurzoon)
 
-![placeholder](https://4.bp.blogspot.com/-E0Ebq4QrNKw/W2XU5wJDAhI/AAAAAAAD068/XCleL__snJgueh9UFWvqSI2Im9OKZQlvACLcBGAs/s1600/robotmak3rs%2Binvite%2Bcard.png "ambassador@robotmak3rs.com")
+![placeholder](/assets/img/robotmak3rs Ambassador Anika.png "ambassador@robotmak3rs.com"){:class="img-responsive"}
