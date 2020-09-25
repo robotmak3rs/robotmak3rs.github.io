@@ -7,6 +7,7 @@ description: <b>United Kingdom</b>  <br> Engineer at ARM
 category: 'MINDSTORMS'
 tags:
 - MINDSTORMS
+- RobotInventor
 
 twitter_text:
 introduction: <b>United Kingdom</b>  <br> Engineer at ARM
