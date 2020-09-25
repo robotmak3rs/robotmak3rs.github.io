@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img width="700" height="350" itemprop="image" class="img-rounded" src="/assets/img/RM3.jpg" style="padding: 0px;" alt="Your Name">
+<img width="700" height="350" itemprop="image"  src="/assets/img/RM3.jpg" style="padding: 0px;" alt="Your Name">
 
 ## ROBOTMAK3RS  MAKE - SHARE - INSPIRE
 ### [Recognized LEGO Online Community of Robot Experts]
