@@ -12,6 +12,7 @@ tags:
 - WeDo
 - PoweredUp
 - SPIKE Prime
+- Ambassador
 twitter_text:
 introduction: <b>The Netherlands</b> <br> Mechanical Engineer
 ---
