@@ -7,6 +7,7 @@ description: <b>Jever, Germany</b><br> Lecturer, Jade Hochschule Wilhelmshaven
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - Educator
 twitter_text:
 introduction: <b>Jever, Germany</b><br> Lecturer, Jade Hochschule Wilhelmshaven

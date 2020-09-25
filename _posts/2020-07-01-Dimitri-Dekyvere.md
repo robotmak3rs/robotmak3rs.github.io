@@ -7,6 +7,7 @@ description:  <b>Kortrijk, Belgium</b> <br> Professor
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - SPIKE Prime
 - WeDo
 - EV3Dev

@@ -7,6 +7,7 @@ description: <b>Florida, USA</b><br> Systems Engineer, Walt Disney
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - BOOST
 - WeDo
 - Editor

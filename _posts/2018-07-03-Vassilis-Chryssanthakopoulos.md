@@ -6,10 +6,6 @@ image: '/assets/img/makers/Vassilis.jpg'
 description: <b>Greece</b> <br> Founder of blast and blast games, Designer
 category: ''
 tags:
-- MINDSTORMS
-- BOOST
-- WeDo
-- Educator
 - Legend
 twitter_text:
 introduction: <b>Greece</b> <br> Founder of blast and blast games, Designer

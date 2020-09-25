@@ -7,6 +7,7 @@ description: <b>Bolton, United Kingdom</b> <br> Lead Systems Engineer at Zen Int
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 twitter_text:
 introduction: <b>Bolton, United Kingdom</b> <br> Lead Systems Engineer at Zen Internet
 ---

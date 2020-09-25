@@ -7,6 +7,7 @@ description:  <b>Brusque, Brazil</b> <br> Professor of Technology Education
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - WeDo
 - Educator
 - Coach/Mentor

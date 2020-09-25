@@ -7,6 +7,7 @@ description:  <b>Lisbon, Portugal</b> <br> Telecom Engineer, R&D Manager and Hea
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - BOOST
 - WeDo
 - LUG

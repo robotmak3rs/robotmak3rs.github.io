@@ -7,6 +7,7 @@ description:  <b>Vienna, Austria</b> <br> Electrical Engineer
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 twitter_text:
 introduction: <b>Vienna, Austria</b> <br> Electrical Engineer
 ---

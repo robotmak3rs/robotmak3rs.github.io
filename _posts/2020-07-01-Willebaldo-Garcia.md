@@ -7,6 +7,7 @@ description:  <b>CDMX, México</b> <br> Architect
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - LUG
 twitter_text:
 introduction: <b>CDMX, México</b> <br> Architect

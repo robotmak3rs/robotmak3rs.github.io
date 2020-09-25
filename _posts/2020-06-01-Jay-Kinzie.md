@@ -8,6 +8,7 @@ category: ''
 tags:
 
 - MINDSTORMS
+- RobotInventor
 - Coach/Mentor
 
 

@@ -7,6 +7,7 @@ description:  <b>Taubaté, Brazil</b><br> Operations and Development Engineer
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - BOOST
 - WeDo
 - Educator

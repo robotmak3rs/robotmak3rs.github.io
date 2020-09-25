@@ -7,6 +7,7 @@ description:  <b>Malle, Belgium</b><br> Technical Consultant
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 twitter_text:
 introduction: <b>Malle, Belgium</b><br> Technical Consultant
 ---

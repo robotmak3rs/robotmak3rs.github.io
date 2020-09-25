@@ -7,6 +7,7 @@ description: <b>Paris, France</b> <br> Retired electronics engineer
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - BOOST
 - WeDo
 - PoweredUp

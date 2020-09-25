@@ -7,6 +7,7 @@ description:  <b>New Jersey, USA</b> <br> R&D Quality Engineer
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - BOOST
 - LUG
 twitter_text:

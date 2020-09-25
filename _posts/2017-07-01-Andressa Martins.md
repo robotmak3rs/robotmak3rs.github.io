@@ -7,6 +7,7 @@ description: <b>Santo André, Brazil</b> <br> Professor, Mechatronic Engineering
 category: 'life'
 tags:
 - MINDSTORMS
+- RobotInventor
 - WeDo
 - Coach/Mentor
 - LUG

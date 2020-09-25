@@ -7,6 +7,7 @@ description: <b>Pittsburgh, Pennsylvania, USA</b> <br> Robotics Judge and Mentor
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - Boost
 - Educator
 - Admin

@@ -7,6 +7,7 @@ description:  <b>Delft, Netherlands</b> <br> Innovation Strategist
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - BOOST
 - EV3DEV
 - Coach/Mentor

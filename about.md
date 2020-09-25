@@ -16,6 +16,7 @@ We are robot makers from around the world who embrace all LEGO robotic platforms
 
 The <a href="https://www.facebook.com/groups/Robotmak3rsRLOC/">ROBOTMAK3RS</a> Facebook group is by invitation only and acts as the mother ship of the 5 well known communities;
 
+<a href="https://www.facebook.com/groups/mindstormsrobotinventor/">facebook.com/groups/mindstormsrobotinventor</a><br>
 <a href="https://www.facebook.com/groups/legomindstorms/">facebook.com/groups/legomindstorms/</a><br>
 <a href="https://www.facebook.com/groups/SPIKEcommunity/">facebook.com/groups/SPIKEcommunity/</a><br>
 <a href="https://www.facebook.com/groups/letsdowedo/">facebook.com/groups/letsdowedo/</a><br>
@@ -27,12 +28,14 @@ The <a href="https://www.facebook.com/groups/Robotmak3rsRLOC/">ROBOTMAK3RS</a> F
 #### We encourage you to use any of these hashtags 
     #ROBOTMAK3RS
 	#MINDSTORMSmagic 
-	#MINDSTORMSEV3  
-	#MINDSTORMS
+	#MINDSTORMS 
+	#MINDSTORMS51515 
 	#BOOSTmagic 
 	#letsdoWeDo
 	#LEGOconfidence
 	#SPIKEprime
+	#RobotInventor
+	
 
 <em>The best way to join our group is via networking, get to know us and make sure we get to know you by MAKING and SHARING your robots and INSPIRING others in the community</em>  
 In the meantime, We invite you to LIKE our Facebook Page <a href="https://www.facebook.com/robotmak3rs/">ROBOTMAK3RS</a> or use the Contact form via the menu if you would like to reach out to the ROBOTMAK3RS RLOC ambassador.

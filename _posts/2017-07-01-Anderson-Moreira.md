@@ -7,6 +7,7 @@ description: <b>Santo André, Brazil</b> <br> Professor, Instituto Mauá de Tecn
 category: 'life'
 tags:
 - MINDSTORMS
+- RobotInventor
 - BOOST
 - WeDo
 - Educator

@@ -7,6 +7,7 @@ description: <b>Duiven, The Netherland</b><br> Educator, Technical Specialist Fl
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - BOOST
 - WeDo
 - EV3DEV

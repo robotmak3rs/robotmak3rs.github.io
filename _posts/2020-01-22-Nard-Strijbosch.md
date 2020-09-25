@@ -7,6 +7,7 @@ description: <b>Eindhoven, The Netherlands</b> <br> Phd Candidate in Control Sys
 category: 'MINDSTORMS Boost WeDo Educator'
 tags:
 - MINDSTORMS
+- RobotInventor
 - SPIKE Prime
 - Boost
 - WeDo

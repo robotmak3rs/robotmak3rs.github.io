@@ -7,6 +7,7 @@ description:  <b>Cologne, Germany</b> <br>  IT Support Engineer
 category: ''
 tags:
 - MINDSTORMS
+- RobotInventor
 - Author
 - Admin
 twitter_text:

@@ -7,6 +7,7 @@ description: <b>Torrelavega, Spain</b> <br> STEM Teacher, Editor of HispaBrick M
 category: 'MINDSTORMS Boost WeDo Educator'
 tags:
 - MINDSTORMS
+- RobotInventor
 - BOOST
 - WeDo
 - PoweredUp
