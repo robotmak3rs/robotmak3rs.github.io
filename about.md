@@ -41,4 +41,4 @@ The <a href="https://www.facebook.com/groups/Robotmak3rsRLOC/">ROBOTMAK3RS</a> F
 In the meantime, We invite you to LIKE our Facebook Page <a href="https://www.facebook.com/robotmak3rs/">ROBOTMAK3RS</a> or use the Contact form via the menu if you would like to reach out to the ROBOTMAK3RS RLOC ambassador.
 
 
-
+![placeholder](/assets/img/robotmak3rs Ambassador Anika.png "ambassador@robotmak3rs.com"){:class="img-responsive"}
