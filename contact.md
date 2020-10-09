@@ -18,11 +18,11 @@ permalink: /contact/
 
          
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3rR1_YMJCs6adcSpCQHgO5tJI3eXtnQW8EeR-20IszDzbiQ/viewform?embedded=true" width="100%" height="2072" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3rR1_YMJCs6adcSpCQHgO5tJI3eXtnQW8EeR-20IszDzbiQ/viewform?embedded=true" width="640" height="2072" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 		
 
               </div>
-          </div>
+         
   
 
 <!--  <div id="form" class="contact-form">
