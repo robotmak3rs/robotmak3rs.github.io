@@ -16,21 +16,7 @@ permalink: /contact/
   <h2>Talk to us</h2>
   
 
-          <div class="container">
-              <div class="row">
-                  <div class="col-lg-12 text-center">
-                      <h2 class="section-heading">Talk to us</h2>                     
-  					 <h4> Please use the form below or reach us via Facebook on our Page's 
-  <a href="m.me/robotmak3rs">Messenger</a> app. </h4>
-
-  						<br> 
-						 
-  						
-                  </div>
-              </div>
-              <div class="row">
-                <div class="col-lg-12">
- 
+         
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3rR1_YMJCs6adcSpCQHgO5tJI3eXtnQW8EeR-20IszDzbiQ/viewform?embedded=true" width="640" height="2072" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 		
