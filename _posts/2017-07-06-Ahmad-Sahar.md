@@ -9,6 +9,7 @@ tags:
 - MINDSTORMS
 - BOOST
 - RobotInventor
+- Spike Prime
 - PoweredUp
 - Educator
 - Coach/Mentor
