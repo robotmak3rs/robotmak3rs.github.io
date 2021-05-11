@@ -8,7 +8,7 @@ category: ''
 tags:
 - MINDSTORMS
 - BOOST
-- WeDo
+- RobotInventor
 - PoweredUp
 - Educator
 - Coach/Mentor
