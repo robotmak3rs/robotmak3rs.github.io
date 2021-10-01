@@ -2,7 +2,7 @@
 layout: post
 title: "Frank Ellerkamp"
 date: 2020-07-01 09:00:00
-image: '/assets/img/makers/Frank.png'
+image: '/assets/img/makers/FrankE.png'
 description:  <b>Zürich, Switzerland</b> <br> STEM Teacher Trainer / Educator
 category: ''
 tags:
