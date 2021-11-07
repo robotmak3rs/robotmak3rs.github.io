@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Guilherme Lima"
+date: 2016-07-02 12:26:40
+image: '/assets/img/makers/Lima.jpg'
+description:  <b>Belo Horizonte, Brazil</b> <br> IT Lead Engineer
+category: ''
+tags:
+- MINDSTORMS
+- RobotInventor
+- BOOST
+- WeDo
+- Educator
+- Coach/Mentor
+- LUG
+twitter_text:
+introduction: <b>Belo Horizonte, Brazil</b> <br> IT Lead Engineer
+---
+
+
+
+## Bio
+
+Gui Lima is responsible for sharing and developing new projects in the Brazilian MINDSTORMS community. He is one of the co-founders of the website, Aprenda Robotica, where he teaches how to create robots for FIRST LEGO League, World Robot Olympiad and OBR. In addition, Gui is a robotics instructor for kids ages 6 to 14 years old and a Head Design Judge for FIRST LEGO League in Brazil.
+
+Gui loves to create new robots and to inspire local creators to develop their creations and share them with the world! Gui has shared his builds at three big international events in Portugal, Bahrain and Dubai as well as at several events in Brazil.
+
+Youtube: [MakeAwesomeCreations](https://www.youtube.com/makeawesomecreations) <br>
+Website: [Monsterbricks](http://monsterbricks.com.br) <br>
+LUG: [LUG Brazil](http://lugbrasil.com/forum)
