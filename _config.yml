@@ -1,7 +1,7 @@
 # Site Settings
 title: ROBOTMAK3RS
 email: ambassador@robotmak3rs.com
-description: Robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS, WeDo and BOOST) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science Technology Engineering Arts and Mathematics via the joys of "playing" with LEGO.
+description: Robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS Legacy and Robot Inventor, Spike Prime and Essential, BOOST and PoweredUp) to MAKE robots, SHARE our passion and INSPIRE generations to come to be interested in Science Technology Engineering Arts and Mathematics via the joys of "playing" with LEGO.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-121857427-1"
