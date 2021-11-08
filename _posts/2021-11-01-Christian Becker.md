@@ -7,7 +7,7 @@ description:  <b>Germany</b> <br> Student, Youtuber
 category: ''
 tags:
 - MINDSTORMS
-- Robot Inventor
+- RobotInventor
 - Spike Prime
 - PoweredUp
 twitter_text:
