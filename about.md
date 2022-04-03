@@ -14,7 +14,7 @@ permalink: /about/
 We are robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS Legacy and Robot Inventor, Spike Prime and Essential, BOOST and PoweredUp) to MAKE robots, SHARE the passion and INSPIRE generations to come! Showcasing interest in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO. 
 
 
-The <a href="https://www.facebook.com/groups/Robotmak3rsRLOC/">ROBOTMAK3RS</a> Facebook group is by invitation only and acts as the mother ship of the 5 well known communities;
+The <a href="https://www.facebook.com/groups/Robotmak3rsRLOC/">ROBOTMAK3RS</a> Facebook group is by invitation only and acts as the mother ship of the 6 well known communities;
 
 <a href="https://www.facebook.com/groups/mindstormsrobotinventor/">facebook.com/groups/mindstormsrobotinventor</a><br>
 <a href="https://www.facebook.com/groups/legomindstorms/">facebook.com/groups/legomindstorms/</a><br>
