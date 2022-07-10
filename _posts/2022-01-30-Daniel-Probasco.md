@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Dave Parker"
-date: 2022-01-28 12:22:40
-image: '/assets/img/makers/Parker.jpg'
-description: <b>Loomis, California, USA</b><br> Retired Software Engineer and STEM Educator
+title: "Daniel Probasco"
+date: 2022-01-30 12:22:40
+image: '/assets/img/makers/Daniel-P.png'
+description: <b>Colorado, USA</b><br> YouTuber Brick Machines, Controls Engineer
 category: ''
 tags:
 - MINDSTORMS
 - RobotInventor
-- Educator
-- Coach/Mentor
+- Youtuber
+- EV3DEV
 twitter_text:
-introduction: <b>Loomis, California, USA</b><br> Retired Software Engineer and STEM Educator
+introduction: <b>LColorado, USA</b><br> YouTuber Brick Machines, Controls Engineer
 ---
 
 
@@ -19,12 +19,10 @@ introduction: <b>Loomis, California, USA</b><br> Retired Software Engineer and S
 ## Bio
 
 
-Dave has been working with LEGO MINDSTORMS on and off since the first version in 1998. Originally a software engineer, he moved into education and started a school robotics club and then got heavily involved in FLL as a coach, mentor, judge, and referee. When NXT came out in 2006, he noticed that the kids needed help with both building with Technic and programming, so he started posting some examples to a website which became nxtprograms.com and grew to have over over 150 projects for various versions of the NXT kits and lots of users around the world. 
+Daniel Probasco is a Controls Engineer based in the USA. He earned a bachelor’s degree in Mechanical Engineering from Colorado State University and has spent years creating innovative, award-winning solutions while working as a Controls Engineer. 
 
-He then got invited to the LEGO MINDSTORMS Community Partner (MCP) group and helped consult a bit on the development of EV3, including writing some of the documentation for the programming blocks. During this time he also worked as a trainer for LEGO Education and as an independent robotics educator working with LMS, Vex, and Vex IQ. Life changed for him around the time EV3 came out, and he switched to teaching introductory Computer Science at the local community college and didn’t have time left to build with LMS himself for several years. 
-
-When COVID hit and schools went online, he took time off from teaching, eventually got bored and then picked up LMS again with the Robot Inventor kit. He is now happy to be building again and posting projects for Robot Inventor to his new website at OneKitProjects.com.
+Daniel spent five years competing on FLL and FTC teams, aiding his team to secure three invitations at the FIRST Robotics World Championship, even finishing one season at 22nd out of approximately 17,000 teams worldwide. He also competed one year with his team in the NASA Robotic Mining Challenge, winning 3rd place in Autonomous Navigation. Daniel taught LEGO® robotics classes for four years to elementary and middle-school students with curriculum he developed including Olympic-style events, Robot Wars, and even programming complex multiplayer arcade games. Most recently, Daniel started the YouTube channel Brick Machines with one of its major goals being to inspire others by creating LEGO Robotics MOCs that are educational, entertaining, or ones would seem impossible to make with LEGO.
 
 
-Website: [OneKitProjects](https://OneKitProjects.com)
+YouTube: [OneKitProjects](https://www.youtube.com/c/BrickMachines1)
 
