@@ -32,7 +32,7 @@ In addition, Sanjay has been a participant, coach, judge and referee for FIRST L
 
 Sanjay has also served as a technical editor for a MINDSTORMS-related book.
 
-Sanjay is a university student studying Computer Science at the Massachusetts Institute of Technology.
+Sanjay is a university student studying Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.
 
 Websites: [EV3 Lessons](http://www.ev3lessons.com), [FLL Tutorials](http://www.flltutorials.com), [Prime Lessons](http://www.primelessons.org)<br>
 LUG: Steel City LUG
