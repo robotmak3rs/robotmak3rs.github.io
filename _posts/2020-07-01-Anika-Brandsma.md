@@ -12,7 +12,6 @@ tags:
 - WeDo
 - PoweredUp
 - SPIKE Prime
-- Ambassador
 twitter_text:
 introduction: <b>The Netherlands</b> <br> Mechanical Engineer
 ---
@@ -28,4 +27,4 @@ Anika acts as Ambassador of the ROBOTMAK3RS RLOC and reports all of it's activit
 
 [Facebook](https://www.facebook.com/Vuurzoon/), [YouTube](https://www.youtube.com/Vuurzoon)
 
-![placeholder](/assets/img/robotmak3rs Ambassador Anika.png "ambassador@robotmak3rs.com"){:class="img-responsive"}
+<!-- ![placeholder](/assets/img/robotmak3rs Ambassador Anika.png "ambassador@robotmak3rs.com"){:class="img-responsive"} -->
