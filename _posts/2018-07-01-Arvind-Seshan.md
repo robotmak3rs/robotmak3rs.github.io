@@ -30,7 +30,7 @@ Arvind co-founded EV3 Lessons and Prime Lessons, go-to sites for learning to pro
 
 In addition, Arvind has been a participant, coach, judge and referee at FIRST LEGO League events. He has won numerous awards in LEGO robotics at the world-level, including the prestigious World Champion's award at FIRST Championships. He is also the youngest recipient of the Coach award at FIRST LEGO League World Festival.
 
-Arvind has also served as a technical editor for a MINDSTORMS-related book. Arvind is currently a high school student in the USA.
+Arvind has also served as a technical editor for a MINDSTORMS-related book. Arvind is an incoming student at the Massachusetts Institute of Technology in the USA.
 
 Websites: [EV3 Lessons](http://www.ev3lessons.com), [FLL Tutorials](http://www.flltutorials.com), [Prime Lessons](http://www.primelessons.org)<br>
 LUG: Steel City LUG
