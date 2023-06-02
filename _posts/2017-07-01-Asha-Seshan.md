@@ -8,11 +8,11 @@ category: ''
 tags:
 - MINDSTORMS
 - RobotInventor
-- Boost
 - Educator
 - Admin
 - Editor
 - Coach/Mentor
+- Ambassador
 twitter_text:
 introduction: <b>Pittsburgh, Pennsylvania, USA</b> <br> Robotics Judge and Mentor
 ---
