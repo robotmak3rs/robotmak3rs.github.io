@@ -23,7 +23,7 @@ introduction: <b>The Netherlands</b> <br> Mechanical Engineer
 
 During working hours, Anika is a mechanical engineer at a high-tech company. In the evening she is a ROBOTMAK3R. She prefers building robotic animals as well as bringing life to LEGO Friends and LEGO Elves sets with the incorporation of MINDSTORMS, BOOST or WeDo. She shares her creations all around the world including at World Robot Olympiad (WRO), FIRST LEGO League (FLL), and LEGOWORLD. Her entire family enjoys building with LEGO. They all have a strong passion for nature & technology.
 
-Anika acts as Ambassador of the ROBOTMAK3RS RLOC and reports all of it's activities to LEGO via the LEGO Ambassador Network (LAN)
+<!-- Anika acts as Ambassador of the ROBOTMAK3RS RLOC and reports all of it's activities to LEGO via the LEGO Ambassador Network (LAN) -->
 
 [Facebook](https://www.facebook.com/Vuurzoon/), [YouTube](https://www.youtube.com/Vuurzoon)
 
