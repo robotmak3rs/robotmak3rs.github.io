@@ -9,7 +9,7 @@ tags:
 - RCX
 - NXT
 - EV3 
-- Robot Inventor
+- RobotInventor
 twitter_text:
 introduction: <b>Ulnes, Innlandet, Norway</b> <br> Student
 ---
