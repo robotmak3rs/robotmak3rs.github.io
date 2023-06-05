@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Anna"
-date: 2017-07-06 12:22:40
+date: 2023-06-04 12:22:40
 image: '/assets/img/makers/anna.jpg'
-description:  <b>Delft, Netherlands</b> <br> Innovation Strategist
+description:  <b>Ulnes, Innlandet, Norway</b> <br> Student
 category: ''
 tags:
 - MINDSTORMS
@@ -13,7 +13,7 @@ tags:
 - Coach/Mentor
 
 twitter_text:
-introduction: <b>Delft, Netherlands</b> <br> Innovation Strategist
+introduction: <b>Ulnes, Innlandet, Norway</b> <br> Student
 ---
 
 
