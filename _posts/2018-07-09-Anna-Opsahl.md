@@ -18,8 +18,6 @@ introduction: <b>Ulnes, Innlandet, Norway</b> <br> Student
 ## Bio
 
 
-Anton is addicted to discovery and robots. Ever curious, ever pushing borders or helping others to do so. He loves mentoring kids with LEGO robots. Their creativity is limitless and with a little guidance they start building stuff beyond any adult's imagination. Anton is a huge fan of Seymour Papert - the author of the seminal book 'Mindstorms'. Papert's original idea was to provide kids with an environment in which they learn 'languages' naturally. LEGO is a language of sorts, as are math, physics and design. Anton sees LEGO bricks are letters that can be combined into words, sentences (mechanisms) and articles (models). Isogawa is one of Anton's favourite poets, by the way.
+When I was little, I started out building Duplo and then translated into Lego when I was 4 years old. In the beginning I was building with instructions, but when I got older, I began to reverse engineer Lego creations that I found on the internet. I began to reverse engineer Lego creations that wasn’t too complicated, but as I got older, I started to build bigger and more complex models. Many of the models I have reverse engineered uses Mindstorms, motors, pneumatic and mechanical mechanisms. The knowledge and experience I gained through reverse engineering made me more inspired to make my own creations.
 
-When Anton is not working with kids he builds LEGO MINDSTORMS animals. Their movement, character and behaviour is his greatest source of inspiration. His most famous animals are Saphiro the Blue dragon and Catfish. Elyse Klaidman from Pixar quipped that drawing was more about observation than about moving a pencil. In the same way building and programming LEGO animals helps Anton look at animals and their behaviour in colourful detail.
-
-[YouTube](https://www.youtube.com/channel/UCoNL918PAT8zu2i0OQA4-Cg?view_as=subscriber)
+[FlickR](https://www.flickr.com/photos/183920314@N08/)
