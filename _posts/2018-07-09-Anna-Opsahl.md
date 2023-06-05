@@ -8,9 +8,6 @@ category: ''
 tags:
 - MINDSTORMS
 - RobotInventor
-- BOOST
-- EV3DEV
-- Coach/Mentor
 
 twitter_text:
 introduction: <b>Ulnes, Innlandet, Norway</b> <br> Student
