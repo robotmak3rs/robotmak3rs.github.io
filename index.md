@@ -103,8 +103,8 @@ a:active {
   <a href="https://www.facebook.com/groups/1901917436776385/"><h3 style="text-align: center;">PoweredUp</h3></a>
   </div>
    <div class="column">
-  <center><a href="http://www.thenxtstep.com/"><img style="width:50%" src="/assets/img/rm3-fb.png"></a></center>
-  <a href="http://www.thenxtstep.com/"><h3 style="text-align: center;">Our blog</h3></a>
+  <center><a href="https://blog.robotmak3rs.com/"><img style="width:50%" src="/assets/img/blog-rm3.png"></a></center>
+  <a href="https://blog.robotmak3rs.com/"><h3 style="text-align: center;">Our blog</h3></a>
 	</div>
 </div>
 
