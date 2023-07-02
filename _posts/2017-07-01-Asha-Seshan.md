@@ -28,5 +28,5 @@ In addition, Asha has building learning communities for LEGO robotics users. She
 Facebook Group: [FLL: Share & Learn](https://www.facebook.com/groups/FLLShareandLearn/)
 
 Asha has served on the ROBOTMAK3RS Executive Board since its inception, and is currently acts as Ambassador of the ROBOTMAK3RS RLOC and reports all of it's activities to LEGO via the LEGO Ambassador Network (LAN)
-[placeholder](/assets/img/robotmak3rs Ambassador Asha.png "robotmak3rs@gmail.com"){:class="img-responsive"}
+![placeholder](/assets/img/robotmak3rs Ambassador Asha.png "robotmak3rs@gmail.com"){:class="img-responsive"}
 
