@@ -25,7 +25,8 @@ Asha has served as writer, editor, and content manager of <a href="http://www.th
 
 In addition, Asha has building learning communities for LEGO robotics users. She is the lead manager of <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share and Learn</a> which is a global community of educators and coaches with 11,000 members. She is also the curator of the <a href="http://http://flltutorials.com/CoachCorner.html">Coach's Corner</a> section on FLLTutorials which has several hundred thousand users. She manages the six ROBOTMAK3RS online communities with a combined membership of 80,000.
 
-Asha has served on the ROBOTMAK3RS Executive Board since its inception, and is currently our Ambassador on the LEGO Ambassador Network (LAN).
-
-
 Facebook Group: [FLL: Share & Learn](https://www.facebook.com/groups/FLLShareandLearn/)
+
+Asha has served on the ROBOTMAK3RS Executive Board since its inception, and is currently acts as Ambassador of the ROBOTMAK3RS RLOC and reports all of it's activities to LEGO via the LEGO Ambassador Network (LAN)
+[placeholder](/assets/img/robotmak3rs Ambassador Asha.png "robotmak3rs@gmail.com"){:class="img-responsive"}
+
