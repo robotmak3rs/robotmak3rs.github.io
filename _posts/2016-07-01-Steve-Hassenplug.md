@@ -25,5 +25,5 @@ introduction: <b>West Lafayette, Indiana, USA</b> <br> Software Engineer
 
 For over 20 years one of my goals has been to show kids what they can do with the same LEGO parts they have at home.  Super Robo Rally is a game where players program LEGO robots to move around a LEGO board.  I've been taking it to LEGO shows, and other events for over 12 years.	I continuously create robots that kids can interact with.	I formed Lafayette LEGO Robotics Club (LafLRC) about 20 years ago.
 
-Website: [Website](http://www.teamhassenplug.org/)
+Website: [TeamHassenplug](http://www.teamhassenplug.org/)
 
