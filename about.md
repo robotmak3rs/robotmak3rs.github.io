@@ -8,22 +8,20 @@ permalink: /about/
 <img width="700" height="350" itemprop="image"  src="/assets/img/RM3.jpg" style="padding: 0px;" alt="Your Name">
 
 ## ROBOTMAK3RS  MAKE - SHARE - INSPIRE
-### [Recognized LEGO Online Community of Robot Experts]
+### [Recognized LEGO Fan Community of Robot Experts]
 
 
-We are robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS Legacy and Robot Inventor, Spike Prime and Essential, BOOST and PoweredUp) to MAKE robots, SHARE the passion and INSPIRE generations to come! Showcasing interest in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO. 
+We are robot makers from around the world who embrace all LEGO robotic platforms (Legacy MINDSTORMS, Robot Inventor, SPIKE Prime and Essential, BOOST, PoweredUp, Science Kit, CS&AI Kit) to MAKE robots, SHARE the passion, and INSPIRE generations to come! Our goal is to showcase interest in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO. While we are an online community, our members also participate in small and large-scale events globally to showcase their work and share their passions.
 
+We have an internal Facebook group of members, but we also run the following seven public Facebook Groups.
 
-The <a href="https://www.facebook.com/groups/Robotmak3rsRLOC/">ROBOTMAK3RS</a> Facebook group is by invitation only and acts as the mother ship of the 6 well known communities;
-
-<a href="https://www.facebook.com/groups/mindstormsrobotinventor/">facebook.com/groups/mindstormsrobotinventor</a><br>
-<a href="https://www.facebook.com/groups/legomindstorms/">facebook.com/groups/legomindstorms/</a><br>
-<a href="https://www.facebook.com/groups/SPIKEcommunity/">facebook.com/groups/SPIKEcommunity/</a><br>
-<a href="https://www.facebook.com/groups/letsdowedo/">facebook.com/groups/letsdowedo/</a><br>
-<a href="https://www.facebook.com/groups/BOOSTcommunity/">facebook.com/groups/boostcommunity/</a><br>
-<a href="https://www.facebook.com/groups/1901917436776385/">facebook.com/groups/ powered up /</a><br>
-
-
+<a href="https://www.facebook.com/groups/mindstormsrobotinventor/">Robot Inventor</a><br>
+<a href="https://www.facebook.com/groups/legomindstorms/">MINDSTORMS/</a><br>
+<a href="https://www.facebook.com/groups/SPIKEcommunity/">SPIKE/</a><br>
+<a href="https://www.facebook.com/groups/letsdowedo/">WeDO</a><br>
+<a href="https://www.facebook.com/groups/BOOSTcommunity/">BOOST/</a><br>
+<a href="https://www.facebook.com/groups/1901917436776385/">PoweredUp</a><br>
+<a href="https://www.facebook.com/groups/csandai/">CS&AI</a><br>
 
 #### We encourage you to use any of these hashtags 
     #ROBOTMAK3RS
@@ -38,8 +36,5 @@ The <a href="https://www.facebook.com/groups/Robotmak3rsRLOC/">ROBOTMAK3RS</a> F
 	#RobotInventor
 	
 
-<em>The best way to join our group is via networking, get to know us and make sure we get to know you by MAKING and SHARING your robots and INSPIRING others in the community</em>  
-In the meantime, We invite you to LIKE our Facebook Page <a href="https://www.facebook.com/robotmak3rs/">ROBOTMAK3RS</a> or use the Contact form via the menu if you would like to reach out to the ROBOTMAK3RS RLOC ambassador.
+<em>The best way to join our group is via networking at events we are present at and using the Contact Us page, so we can get to know you and how you are MAKING and SHARING your robots and INSPIRING others in the community</em>. Make sure you review our <a href="https://www.robotmak3rs.com/RM3-Code-of-Conduct.pdf">ByLaws and Code of Conduct</a><br> document so you are aware of our policies and member expectations.
 
-
-![placeholder](/assets/img/robotmak3rs Ambassador Anika.png "ambassador@robotmak3rs.com"){:class="img-responsive"}
