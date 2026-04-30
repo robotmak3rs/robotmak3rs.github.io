@@ -68,7 +68,7 @@ a:active {
 }
 </style>
 <div style="margin-left:15%;margin-right:15%">
-<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS Legacy & Robot Inventor, SPIKE Prime, WeDo, BOOST and PoweredUp) to MAKE robots, SHARE the passion and INSPIRE generations to come! Showcasing interest in Science, Technology, Engineering, Arts, and Mathematics via the joys of "playing" with LEGO. 
+<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS Legacy & Robot Inventor, SPIKE Prime and Essential, WeDo, BOOST, PoweredUp, Science, and CS&AI) to MAKE robots, SHARE the passion, and INSPIRE future generations! We promote an interest in Science, Technology, Engineering, Arts, and Mathematics (STEAM) via the joys of "playing" with LEGO. 
 
 </h3>
 </div>
@@ -102,6 +102,10 @@ a:active {
   <center><a href="https://www.facebook.com/groups/1901917436776385/"><img style="width:50%" src="/assets/img/PoweredUp-fb.jpg"></a></center>
   <a href="https://www.facebook.com/groups/1901917436776385/"><h3 style="text-align: center;">PoweredUp</h3></a>
   </div>
+  <div class="column">
+  <center><a href="https://www.facebook.com/groups/csandai"><img style="width:50%" src="/assets/img/CSandAi.png"></a></center>
+  <a href="[https://blog.robotmak3rs.com/](https://www.facebook.com/groups/csandai)"><h3 style="text-align: center;">CS&AI</h3></a>
+	</div>
    <div class="column">
   <center><a href="https://blog.robotmak3rs.com/"><img style="width:50%" src="/assets/img/blog-rm3.png"></a></center>
   <a href="https://blog.robotmak3rs.com/"><h3 style="text-align: center;">Our blog</h3></a>
