@@ -104,7 +104,7 @@ a:active {
   </div>
   <div class="column">
   <center><a href="https://www.facebook.com/groups/csandai"><img style="width:50%" src="/assets/img/CSandAi.png"></a></center>
-  <a href="[https://blog.robotmak3rs.com/](https://www.facebook.com/groups/csandai)"><h3 style="text-align: center;">CS&AI</h3></a>
+  <a href="https://www.facebook.com/groups/csandai"><h3 style="text-align: center;">CS&AI</h3></a>
 	</div>
    <div class="column">
   <center><a href="https://blog.robotmak3rs.com/"><img style="width:50%" src="/assets/img/blog-rm3.png"></a></center>
