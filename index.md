@@ -103,7 +103,7 @@ a:active {
   <a href="https://www.facebook.com/groups/1901917436776385/"><h3 style="text-align: center;">PoweredUp</h3></a>
   </div>
   <div class="column">
-  <center><a href="https://www.facebook.com/groups/csandai"><img style="width:50%" src="/assets/img/CSandAi.png"></a></center>
+  <center><a href="https://www.facebook.com/groups/csandai"><img style="width:50%" src="/assets/img/CSandAI.png"></a></center>
   <a href="https://www.facebook.com/groups/csandai"><h3 style="text-align: center;">CS&AI</h3></a>
 	</div>
    <div class="column">
