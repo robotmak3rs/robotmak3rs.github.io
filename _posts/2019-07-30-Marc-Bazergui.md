@@ -7,13 +7,13 @@ description: <b>Montreal, Quebec, Canada</b> <br> Small business owner
 category: ''
 tags:
 - MINDSTORMS
-- RobotInventor
+- Robot Inventor
 - SPIKE Prime
 - BOOST
 - WeDo
 - PoweredUp
 - LUG
-- Admin
+- Board Member
 - Editor
 twitter_text: mbzrg
 introduction: <b>Montreal, Quebec, Canada</b> <br> Small business owner
