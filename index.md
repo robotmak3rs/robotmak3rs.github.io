@@ -68,7 +68,7 @@ a:active {
 }
 </style>
 <div style="margin-left:15%;margin-right:15%">
-<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms (MINDSTORMS Legacy & Robot Inventor, SPIKE Prime and Essential, WeDo, BOOST, PoweredUp, Science, and CS&AI) to MAKE robots, SHARE the passion, and INSPIRE future generations! We promote an interest in Science, Technology, Engineering, Arts, and Mathematics (STEAM) via the joys of "playing" with LEGO. 
+<h3 style="text-align: center;">This page is dedicated to robot makers from around the world who embrace all LEGO robotic platforms to MAKE robots, SHARE the passion, and INSPIRE future generations! Visit the seven community groups we run and read our blog posts to see some of our activities.
 
 </h3>
 </div>
