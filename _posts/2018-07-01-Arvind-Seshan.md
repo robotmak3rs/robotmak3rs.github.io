@@ -16,6 +16,7 @@ tags:
 - EV3Dev
 - Editor
 - LUG
+- CS&AI
 - Coach/Mentor
 twitter_text:
 introduction: <b>Pittsburgh, Pennsylvania, USA</b> <br> Co-founder of EV3Lessons, Student
