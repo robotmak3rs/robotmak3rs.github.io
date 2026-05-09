@@ -7,10 +7,10 @@ description:  <b>Australia</b> <br> Technology Education Expert
 category: ''
 tags:
 - MINDSTORMS
-- RobotInventor
+- Robot Inventor
 - Educator
 - Author
-- Admin
+- Board Member
 twitter_text:
 introduction: <b>Australia</b> <br> Technology Education Expert
 ---
