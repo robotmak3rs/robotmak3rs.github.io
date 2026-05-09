@@ -38,5 +38,5 @@ We have an internal Facebook group of members, but we also run the following sev
 	#CS&AI
 	
 
-<em>The best way to join our group is via networking at events we are present at and using the Contact Us page, so we can get to know you and how you are MAKING and SHARING your robots and INSPIRING others in the community</em>. Make sure you review our <a href="https://www.robotmak3rs.com/RM3-Code-of-Conduct.pdf">ByLaws and Code of Conduct</a> document so you are aware of our policies and member expectations.
+<em>The best way to join our group is via networking at events we are present at and using the <a href="https://www.robotmak3rs.com/about/">Contact</a> page, so we can get to know you and how you are MAKING and SHARING your robots and INSPIRING others in the community</em>. Make sure you review our <a href="https://www.robotmak3rs.com/RM3-Code-of-Conduct.pdf">ByLaws and Code of Conduct</a> document so you are aware of our policies and member expectations.
 
