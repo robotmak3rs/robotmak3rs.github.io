@@ -10,6 +10,7 @@ tags:
 - BOOST
 - WeDo
 - PoweredUp
+- CS&AI
 - Educator
 - Author
 twitter_text:
