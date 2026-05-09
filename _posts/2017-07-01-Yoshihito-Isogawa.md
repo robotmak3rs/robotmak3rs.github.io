@@ -7,9 +7,11 @@ description: <b>Tokyo, Japan</b> <br> Designer, Lecturer, President of Isogawa S
 category: ''
 tags:
 - MINDSTORMS
-- RobotInventor
+- Robot Inventor
 - BOOST
 - WeDo
+- CS&AI
+- SPIKE Prime
 - Author
 - Educator
 twitter_text:
