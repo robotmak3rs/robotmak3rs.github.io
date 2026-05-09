@@ -7,7 +7,7 @@ description: <b>Pittsburgh, Pennsylvania, USA</b> <br> Co-founder of PrimeLesson
 category: 'MINDSTORMS Boost WeDo Educator'
 tags:
 - MINDSTORMS
-- RobotInventor
+- Robot Inventor
 - SPIKE Prime
 - Boost
 - WeDo
