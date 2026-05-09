@@ -15,7 +15,6 @@ tags:
 - Educator
 - EV3Dev
 - Editor
-- LUG
 - CS&AI
 - Coach/Mentor
 twitter_text:
@@ -29,7 +28,7 @@ introduction: <b>Pittsburgh, Pennsylvania, USA</b> <br> Co-founder of PrimeLesso
 
 Arvind co-founded EV3 Lessons and Prime Lessons, go-to sites for learning to program with MINDSTORMS and SPIKE Prime. He also launched FLLTutorials, a collaborative website for FIRST LEGO League Challenge teams to share and learn. His unique robotics creations such as printers and games have been featured on LEGO social media channels as well as at events such as LEGOWORLD Copenhagen. He loves to teach and inspire others to learn robotics and programming using LEGO robotics. He has taught at workshops in a number of states and countries. His tutorials reach 1 million people worldwide and are used by school districts, teams, and robot enthusiasts around the world. He also is the founder of the Share & Learn Facebook Groups, which create communities for FIRST programs and host the annual Virtual Open Invitational.
 
-In addition, Arvind has been a participant, coach, judge, and referee at FIRST LEGO League events. He has won numerous awards in LEGO robotics at the world level, including the prestigious World Champion's award at FIRST Championships. He is also the youngest recipient of the Coach award at FIRST LEGO League World Festival.
+In addition, Arvind has been a participant, coach, judge, and referee at FIRST LEGO League events. He has won numerous awards in LEGO robotics at the world level, including the prestigious World Champion's award at FIRST Championships. He is the youngest recipient of the Coach award at FIRST LEGO League World Festival for his mentorship of teams around the world. In addition, he is the recipient of the FIRST Leadership Award.
 
 Arvind has also served as a technical editor for a MINDSTORMS-related book. Arvind is currently finishing his Bachelor of Science degree in Computer Science at the Massachusetts Institute of Technology (MIT) in the USA. His research is relevant to computer vision, machine learning, systems, and robotics.
 
