@@ -8,6 +8,8 @@ category: ''
 tags:
 - MINDSTORMS
 - SPIKE Prime
+- Robot Inventor
+- Technic
 twitter_text:
 introduction: <b>Bronx, NY</b> <br> Toy Designer
 ---
