@@ -11,7 +11,6 @@ tags:
 - EV3Dev
 - Spike
 - Robot Inventor
-- GBC
 - Coach/Mentor
 - LUG
 twitter_text:
