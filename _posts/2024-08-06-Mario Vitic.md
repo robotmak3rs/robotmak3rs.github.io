@@ -6,6 +6,8 @@ image: '/assets/img/makers/Mario.png'
 description: <b>Gamprin, Liechtenstein</b> <br> Hospitality
 category: 'life'
 tags:
+- Science
+- CS & AI
 - SPIKE Prime
 - SPIKE Essential
 - WeDo
