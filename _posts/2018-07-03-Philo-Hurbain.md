@@ -7,7 +7,7 @@ description: <b>Paris, France</b> <br> Retired electronics engineer
 category: ''
 tags:
 - MINDSTORMS
-- RobotInventor
+- Robot Inventor
 - BOOST
 - WeDo
 - PoweredUp
@@ -15,6 +15,7 @@ tags:
 - LDraw Master
 - Author
 - LUG
+- CS&AI
 twitter_text:
 introduction: <b>Paris, France</b> <br> Retired electronics engineer
 ---
